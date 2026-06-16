@@ -1,0 +1,829 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scotland Tech Jobs – Find Tech Roles in Edinburgh, Glasgow & Beyond</title>
+  <meta name="description" content="Browse live tech jobs in Scotland. Software engineering, data science, DevOps, design and more across Edinburgh, Glasgow, Dundee and Aberdeen." />
+  <style>
+    :root {
+      --navy: #003366;
+      --blue: #005eb8;
+      --light-blue: #e8f0fb;
+      --white: #ffffff;
+      --gray-bg: #f4f6f9;
+      --gray-text: #555;
+      --border: #dde3ee;
+      --green: #1a7f4b;
+      --green-bg: #e6f4ed;
+      --tag-bg: #eef2fb;
+      --radius: 10px;
+      --shadow: 0 2px 12px rgba(0,0,0,0.08);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: 'Segoe UI', Arial, sans-serif; background: var(--gray-bg); color: #222; }
+
+    header {
+      background: var(--navy); color: white; padding: 0 24px;
+      display: flex; align-items: center; justify-content: space-between;
+      height: 64px; position: sticky; top: 0; z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; color: white; }
+    .logo-text { font-size: 1.2rem; font-weight: 700; }
+    .logo-text span { color: #6db3f2; }
+    nav a { color: #aac8f0; text-decoration: none; margin-left: 24px; font-size: 0.92rem; transition: color 0.2s; }
+    nav a:hover { color: white; }
+    .btn-post-header {
+      background: #005eb8; color: white; border: none; padding: 9px 18px;
+      border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 600;
+      margin-left: 24px; transition: background 0.2s;
+    }
+    .btn-post-header:hover { background: #0074e8; }
+
+    .hero {
+      background: linear-gradient(135deg, #003366 0%, #005eb8 100%);
+      color: white; text-align: center; padding: 56px 24px 40px;
+    }
+    .hero h1 { font-size: 2.2rem; font-weight: 800; margin-bottom: 10px; }
+    .hero h1 span { color: #6db3f2; }
+    .hero p { font-size: 1.05rem; color: #b8d4f0; margin-bottom: 28px; }
+    .hero-search { display: flex; gap: 10px; max-width: 560px; margin: 0 auto; }
+    .hero-search input {
+      flex: 1; padding: 12px 16px; border-radius: 8px; border: none;
+      font-size: 0.97rem; outline: none;
+    }
+    .hero-search button {
+      background: #1a7f4b; color: white; border: none; padding: 12px 22px;
+      border-radius: 8px; font-size: 0.97rem; font-weight: 600; cursor: pointer;
+    }
+    .hero-search button:hover { background: #15693e; }
+    .hero-stats { margin-top: 24px; display: flex; justify-content: center; gap: 32px; }
+    .hero-stats span { color: #aad0f5; font-size: 0.92rem; }
+    .hero-stats strong { color: white; }
+
+    .main-wrap {
+      max-width: 1100px; margin: 32px auto; padding: 0 16px;
+      display: grid; grid-template-columns: 240px 1fr; gap: 24px;
+    }
+    .sidebar { display: flex; flex-direction: column; gap: 16px; }
+    .filter-card { background: white; border-radius: var(--radius); padding: 20px; box-shadow: var(--shadow); }
+    .filter-card h3 { font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.8px; color: var(--gray-text); margin-bottom: 14px; }
+    .filter-option { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; cursor: pointer; font-size: 0.93rem; }
+    .filter-option input[type=checkbox] { accent-color: var(--blue); width: 15px; height: 15px; cursor: pointer; }
+    .filter-option label { cursor: pointer; flex: 1; }
+    .filter-option .count { color: #aaa; font-size: 0.82rem; }
+    .clear-filters { background: none; border: none; color: var(--blue); font-size: 0.85rem; cursor: pointer; padding: 6px 0 0; text-align: left; }
+    .clear-filters:hover { text-decoration: underline; }
+
+    .listings-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+    .listings-header h2 { font-size: 1.1rem; color: #333; }
+    .listings-header span { font-size: 0.88rem; color: var(--gray-text); }
+    select.sort-select {
+      padding: 6px 12px; border-radius: 6px; border: 1px solid var(--border);
+      font-size: 0.88rem; color: #333; background: white; cursor: pointer;
+    }
+
+    .job-card {
+      background: white; border-radius: var(--radius); padding: 20px 22px;
+      box-shadow: var(--shadow); border: 1.5px solid transparent;
+      display: flex; gap: 16px; cursor: pointer;
+      transition: border-color 0.15s, box-shadow 0.15s;
+      margin-bottom: 14px; position: relative;
+    }
+    .job-card:hover { border-color: var(--blue); box-shadow: 0 4px 18px rgba(0,94,184,0.13); }
+    .job-card.featured { border-color: #f0a500; }
+    .featured-badge {
+      position: absolute; top: 14px; right: 16px;
+      background: #fff8e1; color: #b07a00; font-size: 0.72rem; font-weight: 700;
+      padding: 2px 8px; border-radius: 20px; text-transform: uppercase; letter-spacing: 0.5px;
+    }
+    .company-logo {
+      width: 52px; height: 52px; border-radius: 10px; background: var(--light-blue);
+      display: flex; align-items: center; justify-content: center;
+      font-size: 1.1rem; flex-shrink: 0; font-weight: 700; color: var(--blue);
+      overflow: hidden;
+    }
+    .company-logo img { width: 100%; height: 100%; object-fit: contain; }
+    .job-info { flex: 1; min-width: 0; }
+    .job-title { font-size: 1.02rem; font-weight: 700; color: #111; margin-bottom: 3px; }
+    .job-company { font-size: 0.9rem; color: var(--blue); font-weight: 600; margin-bottom: 8px; }
+    .job-meta { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+    .tag {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: var(--tag-bg); color: #445; border-radius: 20px;
+      padding: 3px 10px; font-size: 0.8rem; font-weight: 500;
+    }
+    .tag.remote { background: var(--green-bg); color: var(--green); }
+    .tag.hybrid { background: #fff3e0; color: #b05e00; }
+    .tag.onsite { background: #f3e8ff; color: #6b21a8; }
+    .tag.salary { background: #e8f5e9; color: #1b5e20; }
+    .job-date { font-size: 0.78rem; color: #aaa; margin-top: 8px; }
+    .job-actions { display: flex; flex-direction: column; justify-content: center; gap: 8px; flex-shrink: 0; }
+    .btn-apply {
+      background: var(--blue); color: white; border: none; padding: 9px 18px;
+      border-radius: 7px; font-size: 0.88rem; font-weight: 600; cursor: pointer;
+      transition: background 0.2s; white-space: nowrap;
+    }
+    .btn-apply:hover { background: #0074e8; }
+    .btn-save {
+      background: none; border: 1.5px solid var(--border); color: #888;
+      padding: 8px 18px; border-radius: 7px; font-size: 0.88rem; cursor: pointer;
+      transition: border-color 0.2s, color 0.2s; white-space: nowrap;
+    }
+    .btn-save:hover { border-color: var(--blue); color: var(--blue); }
+    .btn-save.saved { border-color: var(--green); color: var(--green); }
+
+    .loading-state { text-align: center; padding: 60px; color: var(--gray-text); background: white; border-radius: var(--radius); box-shadow: var(--shadow); }
+    .loading-spinner { width: 40px; height: 40px; border: 4px solid var(--border); border-top-color: var(--blue); border-radius: 50%; animation: spin 0.8s linear infinite; margin: 0 auto 16px; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .error-state { text-align: center; padding: 48px; color: #c0392b; background: #fdf3f3; border-radius: var(--radius); box-shadow: var(--shadow); border: 1px solid #f5c6c6; }
+    .no-results { text-align: center; padding: 48px; color: var(--gray-text); background: white; border-radius: var(--radius); box-shadow: var(--shadow); }
+
+    /* PAGINATION */
+    .pagination { display: flex; gap: 6px; justify-content: center; margin-top: 20px; flex-wrap: wrap; }
+    .pagination button {
+      padding: 7px 13px; border-radius: 6px; border: 1.5px solid var(--border);
+      background: white; color: #333; cursor: pointer; font-size: 0.88rem;
+      transition: border-color 0.15s, background 0.15s;
+    }
+    .pagination button:hover { border-color: var(--blue); color: var(--blue); }
+    .pagination button.active { background: var(--blue); color: white; border-color: var(--blue); }
+    .pagination button:disabled { opacity: 0.4; cursor: default; }
+
+    /* MODAL */
+    .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45); z-index: 200; align-items: center; justify-content: center; padding: 16px; }
+    .modal-overlay.open { display: flex; }
+    .modal {
+      background: white; border-radius: 14px; width: 100%; max-width: 620px;
+      max-height: 90vh; overflow-y: auto; padding: 32px; position: relative;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.18);
+    }
+    .modal-close { position: absolute; top: 18px; right: 20px; background: none; border: none; font-size: 1.5rem; cursor: pointer; color: #888; line-height: 1; }
+    .modal-close:hover { color: #333; }
+    .modal h2 { font-size: 1.4rem; margin-bottom: 4px; color: #111; }
+    .modal .modal-company { color: var(--blue); font-weight: 600; margin-bottom: 16px; }
+    .modal .modal-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
+    .modal hr { border: none; border-top: 1px solid var(--border); margin: 20px 0; }
+    .modal h3 { font-size: 1rem; font-weight: 700; margin-bottom: 10px; color: #222; }
+    .modal p, .modal li { font-size: 0.94rem; color: #444; line-height: 1.7; }
+    .modal ul { padding-left: 20px; margin-bottom: 16px; }
+    .modal .btn-apply-modal {
+      display: block; width: 100%; background: var(--blue); color: white; border: none;
+      padding: 14px; border-radius: 9px; font-size: 1rem; font-weight: 700;
+      cursor: pointer; margin-top: 24px; transition: background 0.2s;
+    }
+    .modal .btn-apply-modal:hover { background: #0074e8; }
+
+    /* POST JOB MODAL */
+    .post-modal { max-width: 580px; }
+    .post-modal .subtitle { color: var(--gray-text); font-size: 0.9rem; margin-bottom: 24px; }
+    .form-row { margin-bottom: 16px; }
+    .form-row label { display: block; font-size: 0.88rem; font-weight: 600; color: #333; margin-bottom: 5px; }
+    .form-row input, .form-row select, .form-row textarea {
+      width: 100%; padding: 10px 13px; border: 1.5px solid var(--border); border-radius: 7px;
+      font-size: 0.94rem; color: #222; outline: none; transition: border-color 0.2s; font-family: inherit;
+    }
+    .form-row input:focus, .form-row select:focus, .form-row textarea:focus { border-color: var(--blue); }
+    .form-row textarea { resize: vertical; min-height: 100px; }
+    .form-two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    .form-row .hint { font-size: 0.8rem; color: #aaa; margin-top: 4px; }
+    .btn-submit-job {
+      width: 100%; background: var(--green); color: white; border: none;
+      padding: 13px; border-radius: 9px; font-size: 1rem; font-weight: 700;
+      cursor: pointer; margin-top: 8px; transition: background 0.2s;
+    }
+    .btn-submit-job:hover { background: #15693e; }
+    .success-msg { display: none; text-align: center; padding: 24px 0 8px; }
+    .success-msg .check { font-size: 3rem; margin-bottom: 12px; }
+    .success-msg h3 { font-size: 1.2rem; margin-bottom: 8px; }
+    .success-msg p { color: var(--gray-text); font-size: 0.92rem; }
+
+    /* INFO BANNER */
+    .info-banner {
+      background: #e8f0fb; border: 1.5px solid #b3c9f0; border-radius: var(--radius);
+      padding: 14px 18px; margin-bottom: 18px; font-size: 0.88rem; color: #1a3a6b;
+      display: flex; align-items: center; gap: 10px;
+    }
+
+    footer { background: var(--navy); color: #8ab0d8; text-align: center; padding: 28px 16px; margin-top: 48px; font-size: 0.88rem; }
+    footer strong { color: white; }
+    footer a { color: #6db3f2; text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    @media (max-width: 768px) {
+      .main-wrap { grid-template-columns: 1fr; }
+      .sidebar { display: none; }
+      .hero h1 { font-size: 1.6rem; }
+      .hero-search { flex-direction: column; }
+      .job-actions { flex-direction: row; }
+      .form-two-col { grid-template-columns: 1fr; }
+      nav { display: none; }
+    }
+  </style>
+</head>
+<body>
+
+<script>
+  // ─── AIRTABLE CONFIG (optional — for employer "Post a Job" submissions) ──────
+  // Leave as-is to run in demo mode. Fill in to enable Airtable integration.
+  // See: https://airtable.com/create/tokens
+  const AIRTABLE_TOKEN   = 'YOUR_PERSONAL_ACCESS_TOKEN';
+  const AIRTABLE_BASE_ID = 'YOUR_BASE_ID';
+  const AIRTABLE_TABLE   = 'Jobs';
+  const AIRTABLE_CONFIGURED = AIRTABLE_TOKEN !== 'YOUR_PERSONAL_ACCESS_TOKEN';
+</script>
+
+<!-- HEADER -->
+<header>
+  <a class="logo" href="/">
+    <span style="font-size:1.6rem">&#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F;</span>
+    <span class="logo-text">Scotland<span>Tech</span>Jobs</span>
+  </a>
+  <nav>
+    <a href="/">Browse Jobs</a>
+    <a href="#" onclick="scrollToJobs(event)">Salary Guide</a>
+    <a href="mailto:hello@scotlandtechjobs.com">Contact</a>
+  </nav>
+  <button class="btn-post-header" onclick="openPostModal()">Post a Job</button>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <h1>Tech Jobs in <span>Scotland</span></h1>
+  <p>Discover opportunities at Scotland's most exciting tech companies</p>
+  <div class="hero-search">
+    <input type="text" id="searchInput" placeholder="Job title, skill, or company..." oninput="applyFilters()" onkeydown="if(event.key==='Enter')applyFilters()" />
+    <button onclick="applyFilters()">Search</button>
+  </div>
+  <div class="hero-stats">
+    <span><strong id="totalCount">—</strong> Live Jobs</span>
+    <span><strong>Edinburgh · Glasgow · Dundee · Aberdeen</strong></span>
+    <span id="updatedAt" style="font-size:0.8rem;color:#6a9fd8;"></span>
+  </div>
+</div>
+
+<!-- MAIN -->
+<div class="main-wrap" id="jobsSection">
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="filter-card">
+      <h3>&#128205; City</h3>
+      <div class="filter-option"><input type="checkbox" id="city-edinburgh" onchange="applyFilters()"><label for="city-edinburgh">Edinburgh</label><span class="count" id="cnt-edinburgh"></span></div>
+      <div class="filter-option"><input type="checkbox" id="city-glasgow" onchange="applyFilters()"><label for="city-glasgow">Glasgow</label><span class="count" id="cnt-glasgow"></span></div>
+      <div class="filter-option"><input type="checkbox" id="city-dundee" onchange="applyFilters()"><label for="city-dundee">Dundee</label><span class="count" id="cnt-dundee"></span></div>
+      <div class="filter-option"><input type="checkbox" id="city-aberdeen" onchange="applyFilters()"><label for="city-aberdeen">Aberdeen</label><span class="count" id="cnt-aberdeen"></span></div>
+      <div class="filter-option"><input type="checkbox" id="city-remote" onchange="applyFilters()"><label for="city-remote">Remote (Scotland)</label><span class="count" id="cnt-remote"></span></div>
+      <button class="clear-filters" onclick="clearFilters()">Clear all filters</button>
+    </div>
+    <div class="filter-card">
+      <h3>&#128188; Category</h3>
+      <div class="filter-option"><input type="checkbox" id="cat-engineering" onchange="applyFilters()"><label for="cat-engineering">Engineering</label><span class="count" id="cnt-engineering"></span></div>
+      <div class="filter-option"><input type="checkbox" id="cat-data" onchange="applyFilters()"><label for="cat-data">Data &amp; AI</label><span class="count" id="cnt-data"></span></div>
+      <div class="filter-option"><input type="checkbox" id="cat-design" onchange="applyFilters()"><label for="cat-design">Design &amp; UX</label><span class="count" id="cnt-design"></span></div>
+      <div class="filter-option"><input type="checkbox" id="cat-product" onchange="applyFilters()"><label for="cat-product">Product</label><span class="count" id="cnt-product"></span></div>
+      <div class="filter-option"><input type="checkbox" id="cat-devops" onchange="applyFilters()"><label for="cat-devops">DevOps &amp; Cloud</label><span class="count" id="cnt-devops"></span></div>
+      <div class="filter-option"><input type="checkbox" id="cat-security" onchange="applyFilters()"><label for="cat-security">Cybersecurity</label><span class="count" id="cnt-security"></span></div>
+    </div>
+    <div class="filter-card">
+      <h3>&#127962; Work Type</h3>
+      <div class="filter-option"><input type="checkbox" id="type-remote" onchange="applyFilters()"><label for="type-remote">Remote</label></div>
+      <div class="filter-option"><input type="checkbox" id="type-hybrid" onchange="applyFilters()"><label for="type-hybrid">Hybrid</label></div>
+      <div class="filter-option"><input type="checkbox" id="type-onsite" onchange="applyFilters()"><label for="type-onsite">On-site</label></div>
+    </div>
+  </aside>
+
+  <!-- LISTINGS -->
+  <main>
+    <div id="infoBanner"></div>
+    <div class="listings-header">
+      <div>
+        <h2>Tech Jobs in Scotland</h2>
+        <span id="resultsCount"></span>
+      </div>
+      <select class="sort-select" id="sortSelect" onchange="applyFilters()">
+        <option value="newest">Newest first</option>
+        <option value="salary">Highest salary</option>
+        <option value="featured">Featured first</option>
+      </select>
+    </div>
+    <div id="jobList"></div>
+    <div id="pagination"></div>
+  </main>
+</div>
+
+<!-- JOB DETAIL MODAL -->
+<div class="modal-overlay" id="jobModal" onclick="if(event.target===this)closeModal('jobModal')">
+  <div class="modal">
+    <button class="modal-close" onclick="closeModal('jobModal')">&times;</button>
+    <div id="jobModalBody"></div>
+  </div>
+</div>
+
+<!-- POST JOB MODAL -->
+<div class="modal-overlay" id="postModal" onclick="if(event.target===this)closeModal('postModal')">
+  <div class="modal post-modal">
+    <button class="modal-close" onclick="closeModal('postModal')">&times;</button>
+    <div id="postFormWrap">
+      <h2>&#x1F3F4; Post a Tech Job</h2>
+      <p class="subtitle">Reach thousands of tech professionals across Scotland</p>
+      <div class="form-two-col">
+        <div class="form-row"><label>Job Title *</label><input type="text" id="pTitle" placeholder="e.g. Senior Software Engineer" /></div>
+        <div class="form-row"><label>Company Name *</label><input type="text" id="pCompany" placeholder="e.g. Skyscanner" /></div>
+      </div>
+      <div class="form-two-col">
+        <div class="form-row">
+          <label>City *</label>
+          <select id="pCity">
+            <option value="">Select city...</option>
+            <option>Edinburgh</option><option>Glasgow</option><option>Dundee</option>
+            <option>Aberdeen</option><option>Remote (Scotland)</option>
+            <option>Stirling</option><option>Inverness</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label>Category *</label>
+          <select id="pCat">
+            <option value="">Select category...</option>
+            <option>Engineering</option><option>Data &amp; AI</option><option>Design &amp; UX</option>
+            <option>Product</option><option>DevOps &amp; Cloud</option><option>Cybersecurity</option>
+            <option>QA &amp; Testing</option><option>Management</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-two-col">
+        <div class="form-row">
+          <label>Work Type *</label>
+          <select id="pType">
+            <option value="">Select...</option>
+            <option>Remote</option><option>Hybrid</option><option>On-site</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <label>Salary Range</label>
+          <input type="text" id="pSalary" placeholder="e.g. £45,000 – £60,000" />
+        </div>
+      </div>
+      <div class="form-row"><label>Job Description *</label><textarea id="pDesc" placeholder="Describe the role, responsibilities, and what you're looking for..."></textarea></div>
+      <div class="form-two-col">
+        <div class="form-row">
+          <label>Apply URL or Email *</label>
+          <input type="text" id="pApply" placeholder="https://... or jobs@company.com" />
+        </div>
+        <div class="form-row">
+          <label>Contact Email</label>
+          <input type="email" id="pEmail" placeholder="billing@company.com" />
+          <div class="hint">For confirmation only</div>
+        </div>
+      </div>
+      <button class="btn-submit-job" onclick="submitJob()">Submit Job Listing &rarr;</button>
+    </div>
+    <div class="success-msg" id="postSuccess">
+      <div class="check">&#9989;</div>
+      <h3>Job Submitted!</h3>
+      <p>Your listing has been received and will appear on the board after review.</p>
+    </div>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <p><strong>ScotlandTechJobs</strong> &middot; Built for Scotland's tech community</p>
+  <p style="margin-top:8px;">
+    <a href="#" onclick="openPostModal();return false">Post a Job</a> &middot;
+    <a href="mailto:hello@scotlandtechjobs.com">Contact</a> &middot;
+    <a href="#">Privacy</a>
+  </p>
+  <p style="margin-top:12px; font-size:0.8rem;">&copy; 2026 ScotlandTechJobs. All rights reserved.</p>
+</footer>
+
+<script>
+// ─── STATE ────────────────────────────────────────────────────────────────────
+let ALL_JOBS     = [];
+let filteredJobs = [];
+let savedJobs    = new Set(JSON.parse(localStorage.getItem('savedJobs') || '[]'));
+let currentPage  = 1;
+const PAGE_SIZE  = 20;
+
+// ─── INIT ─────────────────────────────────────────────────────────────────────
+async function init() {
+  showLoading();
+  try {
+    const [scrapedJobs, airtableJobs] = await Promise.allSettled([
+      fetchScrapedJobs(),
+      AIRTABLE_CONFIGURED ? fetchAirtableJobs() : Promise.resolve([]),
+    ]);
+
+    const scraped   = scrapedJobs.status   === 'fulfilled' ? scrapedJobs.value   : [];
+    const airtable  = airtableJobs.status  === 'fulfilled' ? airtableJobs.value  : [];
+
+    // Merge: Airtable (manual/featured) first, then scraped, dedupe by title+company
+    const seen = new Set();
+    const merged = [...airtable, ...scraped].filter(j => {
+      const key = `${j.title.toLowerCase()}|${j.company.toLowerCase()}`;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
+    if (merged.length === 0) {
+      loadDemoJobs();
+      showInfoBanner('Showing sample jobs — live data not yet available. Jobs update daily once GitHub Actions is set up.');
+    } else {
+      ALL_JOBS = merged;
+    }
+  } catch (e) {
+    loadDemoJobs();
+    showInfoBanner('Could not load live jobs. Showing sample data.');
+  }
+
+  applyFilters();
+  updateCounts();
+}
+
+// ─── DATA SOURCES ─────────────────────────────────────────────────────────────
+async function fetchScrapedJobs() {
+  const res = await fetch('/jobs.json?t=' + Date.now());
+  if (!res.ok) return [];
+  const data = await res.json();
+  if (data.updated) {
+    document.getElementById('updatedAt').textContent = 'Updated ' + timeAgo(data.updated);
+  }
+  return (data.jobs || []).map(normaliseJob);
+}
+
+async function fetchAirtableJobs() {
+  let allRecords = [], offset = null;
+  do {
+    let url = `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${encodeURIComponent(AIRTABLE_TABLE)}?filterByFormula={Active}=1&sort[0][field]=Title&sort[0][direction]=desc&pageSize=100`;
+    if (offset) url += `&offset=${offset}`;
+    const res = await fetch(url, { headers: { Authorization: `Bearer ${AIRTABLE_TOKEN}` } });
+    if (!res.ok) return [];
+    const data = await res.json();
+    allRecords = allRecords.concat(data.records);
+    offset = data.offset || null;
+  } while (offset);
+  return allRecords.map(mapAirtableRecord);
+}
+
+function mapAirtableRecord(r) {
+  const f = r.fields;
+  return normaliseJob({
+    id:           r.id,
+    title:        f.Title        || 'Untitled Role',
+    company:      f.Company      || 'Unknown Company',
+    logo:         f.LogoInitials || null,
+    city:         f.City         || 'Scotland',
+    category:     f.Category     || 'Engineering',
+    type:         f.Type         || 'Hybrid',
+    salary:       f.Salary       || '',
+    tags:         f.Tags ? f.Tags.split(',').map(t => t.trim()) : [],
+    description:  f.Description  || '',
+    requirements: f.Requirements ? f.Requirements.split('\n').filter(Boolean) : [],
+    perks:        f.Perks        ? f.Perks.split('\n').filter(Boolean) : [],
+    applyUrl:     f.ApplyURL     || '#',
+    featured:     f.Featured     || false,
+    date:         r.createdTime  || new Date().toISOString(),
+    source:       'airtable',
+  });
+}
+
+function normaliseJob(j) {
+  if (!j.logo) {
+    const words = (j.company || 'XX').trim().split(/\s+/);
+    j.logo = words.length >= 2
+      ? (words[0][0] + words[1][0]).toUpperCase()
+      : (j.company || 'XX').slice(0, 2).toUpperCase();
+  }
+  return j;
+}
+
+// ─── DEMO DATA ────────────────────────────────────────────────────────────────
+function loadDemoJobs() {
+  ALL_JOBS = [
+    { id:'d1', featured:true,  title:'Senior Software Engineer',   company:'Skyscanner',       logo:'SK', city:'Edinburgh',         category:'Engineering',   type:'Hybrid',  salary:'£65,000 – £85,000', tags:['React','Python','AWS'],          description:'Join Skyscanner\'s core platform team to build high-performance travel search experiences used by 100M+ travellers.', requirements:['5+ years software engineering','Strong Python or Go','AWS/GCP experience'], perks:['Hybrid working','30 days holiday','Share options'], applyUrl:'#', date:'2026-06-13', source:'demo' },
+    { id:'d2', featured:false, title:'Data Scientist',             company:'Avaloq',            logo:'AV', city:'Edinburgh',         category:'Data & AI',     type:'Hybrid',  salary:'£55,000 – £70,000', tags:['Python','ML','SQL'],             description:'Work on ML models to power next-generation financial technology.', requirements:['MSc/PhD in quantitative field','Python expertise','Finance data experience'], perks:['Private healthcare','£2k learning budget','6% pension'], applyUrl:'#', date:'2026-06-12', source:'demo' },
+    { id:'d3', featured:false, title:'UX Designer',                company:'FreeAgent',         logo:'FA', city:'Edinburgh',         category:'Design & UX',   type:'Remote',  salary:'£42,000 – £55,000', tags:['Figma','User Research'],         description:'Help small business owners make sense of their finances through beautiful, intuitive design.', requirements:['3+ years UX design','Expert Figma skills','Portfolio required'], perks:['Remote-first','Home office budget','25 days holiday'], applyUrl:'#', date:'2026-06-11', source:'demo' },
+    { id:'d4', featured:true,  title:'Cloud Infrastructure Eng.',  company:'Clydesdale Bank',   logo:'CB', city:'Glasgow',           category:'DevOps & Cloud',type:'Hybrid',  salary:'£60,000 – £75,000', tags:['Terraform','Kubernetes','Azure'], description:'Drive the bank\'s cloud transformation journey building secure infrastructure on Azure.', requirements:['4+ years DevOps','Terraform & Kubernetes','Azure certs desirable'], perks:['Banking benefits','Annual bonus','Career progression'], applyUrl:'#', date:'2026-06-10', source:'demo' },
+    { id:'d5', featured:false, title:'Machine Learning Engineer',  company:'Vis.ai',            logo:'VS', city:'Glasgow',           category:'Data & AI',     type:'Hybrid',  salary:'£68,000 – £88,000', tags:['PyTorch','Computer Vision'],     description:'Work at the cutting edge of computer vision and AI to automate visual inspection at scale.', requirements:['3+ years ML engineering','PyTorch expertise','MLOps experience'], perks:['Equity package','Conference budget','Latest hardware'], applyUrl:'#', date:'2026-06-06', source:'demo' },
+    { id:'d6', featured:false, title:'iOS Developer',              company:'Topolytics',        logo:'TP', city:'Dundee',            category:'Engineering',   type:'Remote',  salary:'£50,000 – £65,000', tags:['Swift','SwiftUI','iOS'],         description:'Build mobile tools to track and analyse waste flows for sustainability-focused clients worldwide.', requirements:['3+ years iOS development','Swift and SwiftUI','API integration'], perks:['Fully remote','Mission-driven','28 days holiday'], applyUrl:'#', date:'2026-06-04', source:'demo' },
+    { id:'d7', featured:false, title:'Data Engineer',              company:'Sword Group',       logo:'SG', city:'Aberdeen',          category:'Data & AI',     type:'Hybrid',  salary:'£55,000 – £72,000', tags:['Spark','dbt','Snowflake'],       description:'Design and maintain robust data pipelines for energy sector clients across the North Sea.', requirements:['4+ years data engineering','Spark, dbt, Snowflake','SQL expertise'], perks:['Training budget','Generous expenses','Energy sector perks'], applyUrl:'#', date:'2026-06-03', source:'demo' },
+    { id:'d8', featured:false, title:'DevOps Engineer',            company:'Bright Signals',    logo:'BS', city:'Remote (Scotland)', category:'DevOps & Cloud',type:'Remote',  salary:'£52,000 – £68,000', tags:['Docker','CI/CD','GCP'],          description:'Own and evolve CI/CD pipelines and cloud infrastructure for a fast-growing MarTech startup.', requirements:['3+ years DevOps','Docker/Kubernetes/GCP','Terraform'], perks:['100% remote','Equity options','Quarterly team meetups'], applyUrl:'#', date:'2026-06-02', source:'demo' },
+    { id:'d9', featured:false, title:'Cybersecurity Analyst',      company:'Standard Life',     logo:'SL', city:'Edinburgh',         category:'Cybersecurity', type:'Hybrid',  salary:'£50,000 – £65,000', tags:['SIEM','Threat Analysis'],        description:'Protect one of Scotland\'s largest financial institutions from evolving cyber threats.', requirements:['3+ years cybersecurity','Splunk/Sentinel experience','CISSP desirable'], perks:['Pension up to 15%','Life assurance','Study support'], applyUrl:'#', date:'2026-06-08', source:'demo' },
+    { id:'d10',featured:false, title:'Product Manager – FinTech',  company:'Nucleus Financial', logo:'NF', city:'Edinburgh',         category:'Product',       type:'Hybrid',  salary:'£70,000 – £90,000', tags:['Product Strategy','Agile'],      description:'Own the product roadmap for Nucleus\'s adviser platform used by thousands of financial advisers across the UK.', requirements:['5+ years product management','Regulated financial services','Agile'], perks:['Bonus up to 20%','Private medical','4-day week option'], applyUrl:'#', date:'2026-06-09', source:'demo' },
+  ];
+}
+
+// ─── FILTERING & SORTING ──────────────────────────────────────────────────────
+function applyFilters() {
+  currentPage = 1;
+  const search = document.getElementById('searchInput').value.toLowerCase().trim();
+  const activeCities = ['edinburgh','glasgow','dundee','aberdeen','remote'].filter(
+    c => document.getElementById(`city-${c}`)?.checked
+  );
+  const activeCats = {
+    engineering: document.getElementById('cat-engineering')?.checked,
+    data:        document.getElementById('cat-data')?.checked,
+    design:      document.getElementById('cat-design')?.checked,
+    product:     document.getElementById('cat-product')?.checked,
+    devops:      document.getElementById('cat-devops')?.checked,
+    security:    document.getElementById('cat-security')?.checked,
+  };
+  const anyCat = Object.values(activeCats).some(Boolean);
+  const activeTypes = {
+    remote: document.getElementById('type-remote')?.checked,
+    hybrid: document.getElementById('type-hybrid')?.checked,
+    onsite: document.getElementById('type-onsite')?.checked,
+  };
+  const anyType = Object.values(activeTypes).some(Boolean);
+  const sort = document.getElementById('sortSelect').value;
+
+  filteredJobs = ALL_JOBS.filter(j => {
+    if (search) {
+      const haystack = `${j.title} ${j.company} ${j.city} ${(j.tags||[]).join(' ')} ${j.category}`.toLowerCase();
+      if (!haystack.includes(search)) return false;
+    }
+    if (activeCities.length) {
+      if (!activeCities.some(c => j.city.toLowerCase().includes(c === 'remote' ? 'remote' : c))) return false;
+    }
+    if (anyCat) {
+      const cat = j.category.toLowerCase();
+      const match =
+        (activeCats.engineering && cat.includes('engineering')) ||
+        (activeCats.data        && cat.includes('data'))        ||
+        (activeCats.design      && (cat.includes('design') || cat.includes('ux'))) ||
+        (activeCats.product     && cat.includes('product'))     ||
+        (activeCats.devops      && (cat.includes('devops') || cat.includes('cloud'))) ||
+        (activeCats.security    && (cat.includes('cyber') || cat.includes('security')));
+      if (!match) return false;
+    }
+    if (anyType) {
+      const t = j.type.toLowerCase();
+      const match =
+        (activeTypes.remote && t === 'remote') ||
+        (activeTypes.hybrid && t === 'hybrid') ||
+        (activeTypes.onsite && (t === 'on-site' || t === 'onsite'));
+      if (!match) return false;
+    }
+    return true;
+  });
+
+  if (sort === 'featured') {
+    filteredJobs.sort((a, b) => (b.featured ? 1 : 0) - (a.featured ? 1 : 0));
+  } else if (sort === 'salary') {
+    filteredJobs.sort((a, b) => extractSalary(b.salary) - extractSalary(a.salary));
+  } else {
+    filteredJobs.sort((a, b) => new Date(b.date) - new Date(a.date));
+  }
+
+  renderPage();
+  const n = filteredJobs.length;
+  document.getElementById('resultsCount').textContent = `${n} job${n !== 1 ? 's' : ''} found`;
+  document.getElementById('totalCount').textContent = ALL_JOBS.length;
+}
+
+function extractSalary(s) {
+  if (!s) return 0;
+  const m = s.replace(/,/g, '').match(/[\d]+k?/gi);
+  if (!m) return 0;
+  const val = m[0];
+  return val.toLowerCase().endsWith('k') ? parseInt(val) * 1000 : parseInt(val);
+}
+
+// ─── RENDERING ────────────────────────────────────────────────────────────────
+function showLoading() {
+  document.getElementById('jobList').innerHTML = `
+    <div class="loading-state">
+      <div class="loading-spinner"></div>
+      <p>Loading jobs&hellip;</p>
+    </div>`;
+}
+
+function renderPage() {
+  const start = (currentPage - 1) * PAGE_SIZE;
+  const page  = filteredJobs.slice(start, start + PAGE_SIZE);
+  const listEl = document.getElementById('jobList');
+
+  if (filteredJobs.length === 0) {
+    listEl.innerHTML = '<div class="no-results"><p>No jobs match your filters. Try broadening your search.</p></div>';
+    document.getElementById('pagination').innerHTML = '';
+    return;
+  }
+
+  listEl.innerHTML = page.map(jobCardHTML).join('');
+  renderPagination();
+}
+
+function jobCardHTML(j) {
+  const t = j.type.toLowerCase();
+  const typeClass = t === 'remote' ? 'remote' : t === 'hybrid' ? 'hybrid' : 'onsite';
+  const isSaved = savedJobs.has(String(j.id));
+  const safeId = String(j.id).replace(/[^a-zA-Z0-9_-]/g, '_');
+  return `
+    <div class="job-card${j.featured ? ' featured' : ''}" onclick="openJobModal('${escHtml(String(j.id))}')">
+      ${j.featured ? '<span class="featured-badge">&#11088; Featured</span>' : ''}
+      <div class="company-logo">${escHtml(j.logo)}</div>
+      <div class="job-info">
+        <div class="job-title">${escHtml(j.title)}</div>
+        <div class="job-company">${escHtml(j.company)}</div>
+        <div class="job-meta">
+          <span class="tag">&#128205; ${escHtml(j.city)}</span>
+          <span class="tag ${typeClass}">${escHtml(j.type)}</span>
+          ${j.salary ? `<span class="tag salary">&#128176; ${escHtml(j.salary)}</span>` : ''}
+          ${(j.tags||[]).slice(0,3).map(t => `<span class="tag">${escHtml(t)}</span>`).join('')}
+        </div>
+        <div class="job-date">${timeAgo(j.date)}</div>
+      </div>
+      <div class="job-actions">
+        <button class="btn-apply" onclick="event.stopPropagation();applyToJob('${escHtml(j.applyUrl)}')">Apply</button>
+        <button class="btn-save${isSaved ? ' saved' : ''}" id="save-${safeId}" onclick="event.stopPropagation();toggleSave('${escHtml(String(j.id))}','${safeId}')">${isSaved ? 'Saved' : 'Save'}</button>
+      </div>
+    </div>`;
+}
+
+function renderPagination() {
+  const totalPages = Math.ceil(filteredJobs.length / PAGE_SIZE);
+  if (totalPages <= 1) { document.getElementById('pagination').innerHTML = ''; return; }
+
+  let html = '<div class="pagination">';
+  html += `<button onclick="goPage(${currentPage-1})" ${currentPage===1?'disabled':''}>&#8592; Prev</button>`;
+  for (let p = 1; p <= totalPages; p++) {
+    if (p === 1 || p === totalPages || Math.abs(p - currentPage) <= 2) {
+      html += `<button class="${p===currentPage?'active':''}" onclick="goPage(${p})">${p}</button>`;
+    } else if (Math.abs(p - currentPage) === 3) {
+      html += '<button disabled>…</button>';
+    }
+  }
+  html += `<button onclick="goPage(${currentPage+1})" ${currentPage===totalPages?'disabled':''}>Next &#8594;</button>`;
+  html += '</div>';
+  document.getElementById('pagination').innerHTML = html;
+}
+
+function goPage(n) {
+  const total = Math.ceil(filteredJobs.length / PAGE_SIZE);
+  if (n < 1 || n > total) return;
+  currentPage = n;
+  renderPage();
+  document.getElementById('jobsSection').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ─── SIDEBAR COUNTS ───────────────────────────────────────────────────────────
+function updateCounts() {
+  const cityKeys = { edinburgh:'Edinburgh', glasgow:'Glasgow', dundee:'Dundee', aberdeen:'Aberdeen', remote:'Remote' };
+  Object.entries(cityKeys).forEach(([k, v]) => {
+    const el = document.getElementById(`cnt-${k}`);
+    if (el) {
+      const n = ALL_JOBS.filter(j => j.city.toLowerCase().includes(v.toLowerCase())).length;
+      el.textContent = n || '';
+    }
+  });
+  const catKeys = { engineering:'Engineering', data:'Data', design:'Design', product:'Product', devops:'DevOps', security:'Cyber' };
+  Object.entries(catKeys).forEach(([k, v]) => {
+    const el = document.getElementById(`cnt-${k}`);
+    if (el) {
+      const n = ALL_JOBS.filter(j => j.category.toLowerCase().includes(v.toLowerCase())).length;
+      el.textContent = n || '';
+    }
+  });
+}
+
+// ─── JOB DETAIL MODAL ─────────────────────────────────────────────────────────
+function openJobModal(id) {
+  const job = ALL_JOBS.find(j => String(j.id) === String(id));
+  if (!job) return;
+  const t = job.type.toLowerCase();
+  const typeClass = t === 'remote' ? 'remote' : t === 'hybrid' ? 'hybrid' : 'onsite';
+  document.getElementById('jobModalBody').innerHTML = `
+    <h2>${escHtml(job.title)}</h2>
+    <div class="modal-company">${escHtml(job.company)}</div>
+    <div class="modal-meta">
+      <span class="tag">&#128205; ${escHtml(job.city)}</span>
+      <span class="tag ${typeClass}">${escHtml(job.type)}</span>
+      ${job.salary ? `<span class="tag salary">&#128176; ${escHtml(job.salary)}</span>` : ''}
+      ${(job.tags||[]).map(t => `<span class="tag">${escHtml(t)}</span>`).join('')}
+    </div>
+    <hr>
+    <h3>About the Role</h3>
+    <p>${escHtml(job.description).replace(/\n/g,'<br>')}</p>
+    ${job.requirements?.length ? `<hr><h3>Requirements</h3><ul>${job.requirements.map(r=>`<li>${escHtml(r)}</li>`).join('')}</ul>` : ''}
+    ${job.perks?.length ? `<hr><h3>Perks &amp; Benefits</h3><ul>${job.perks.map(p=>`<li>${escHtml(p)}</li>`).join('')}</ul>` : ''}
+    <button class="btn-apply-modal" onclick="applyToJob('${escHtml(job.applyUrl)}')">Apply for this Role &rarr;</button>`;
+  document.getElementById('jobModal').classList.add('open');
+}
+
+function closeModal(id) {
+  document.getElementById(id).classList.remove('open');
+}
+
+// ─── SAVE JOBS ────────────────────────────────────────────────────────────────
+function toggleSave(id, safeId) {
+  if (savedJobs.has(id)) {
+    savedJobs.delete(id);
+  } else {
+    savedJobs.add(id);
+  }
+  localStorage.setItem('savedJobs', JSON.stringify([...savedJobs]));
+  const btn = document.getElementById(`save-${safeId}`);
+  if (btn) {
+    btn.textContent = savedJobs.has(id) ? 'Saved' : 'Save';
+    btn.classList.toggle('saved', savedJobs.has(id));
+  }
+}
+
+// ─── POST JOB MODAL ───────────────────────────────────────────────────────────
+function openPostModal() {
+  document.getElementById('postFormWrap').style.display = '';
+  document.getElementById('postSuccess').style.display = 'none';
+  document.getElementById('postModal').classList.add('open');
+}
+
+async function submitJob() {
+  const vals = {
+    title:   document.getElementById('pTitle').value.trim(),
+    company: document.getElementById('pCompany').value.trim(),
+    city:    document.getElementById('pCity').value,
+    cat:     document.getElementById('pCat').value,
+    type:    document.getElementById('pType').value,
+    salary:  document.getElementById('pSalary').value.trim(),
+    desc:    document.getElementById('pDesc').value.trim(),
+    apply:   document.getElementById('pApply').value.trim(),
+  };
+  if (!vals.title || !vals.company || !vals.city || !vals.cat || !vals.type || !vals.desc || !vals.apply) {
+    alert('Please fill in all required fields.');
+    return;
+  }
+
+  if (!AIRTABLE_CONFIGURED) {
+    document.getElementById('postFormWrap').style.display = 'none';
+    document.getElementById('postSuccess').style.display = 'block';
+    return;
+  }
+
+  const btn = document.querySelector('.btn-submit-job');
+  btn.disabled = true; btn.textContent = 'Submitting…';
+
+  try {
+    const res = await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/${encodeURIComponent(AIRTABLE_TABLE)}`, {
+      method: 'POST',
+      headers: { Authorization: `Bearer ${AIRTABLE_TOKEN}`, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ fields: {
+        Title: vals.title, Company: vals.company, City: vals.city,
+        Category: vals.cat, Type: vals.type, Salary: vals.salary,
+        Description: vals.desc, ApplyURL: vals.apply, Active: false,
+      }}),
+    });
+    if (!res.ok) throw new Error('Submission failed');
+    document.getElementById('postFormWrap').style.display = 'none';
+    document.getElementById('postSuccess').style.display = 'block';
+  } catch (e) {
+    alert('Submission failed. Please try again or email hello@scotlandtechjobs.com');
+    btn.disabled = false; btn.textContent = 'Submit Job Listing →';
+  }
+}
+
+// ─── HELPERS ──────────────────────────────────────────────────────────────────
+function clearFilters() {
+  document.querySelectorAll('.filter-option input[type=checkbox]').forEach(el => el.checked = false);
+  document.getElementById('searchInput').value = '';
+  applyFilters();
+}
+
+function applyToJob(url) {
+  if (url && url !== '#') window.open(url, '_blank', 'noopener');
+}
+
+function scrollToJobs(e) {
+  e.preventDefault();
+  document.getElementById('jobsSection').scrollIntoView({ behavior: 'smooth' });
+}
+
+function showInfoBanner(msg) {
+  document.getElementById('infoBanner').innerHTML =
+    `<div class="info-banner">&#8505;&#65039; ${msg}</div>`;
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return '';
+  const diff = Date.now() - new Date(dateStr).getTime();
+  const days = Math.floor(diff / 86400000);
+  if (days <= 0) return 'Today';
+  if (days === 1) return 'Yesterday';
+  if (days < 7) return `${days} days ago`;
+  if (days < 30) return `${Math.floor(days/7)} week${Math.floor(days/7)>1?'s':''} ago`;
+  return new Date(dateStr).toLocaleDateString('en-GB', { day:'numeric', month:'short', year:'numeric' });
+}
+
+function escHtml(str) {
+  return String(str ?? '')
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
+}
+
+// ─── START ────────────────────────────────────────────────────────────────────
+init();
+</script>
+</body>
+</html>

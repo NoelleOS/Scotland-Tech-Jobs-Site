@@ -1,0 +1,33 @@
+name: Fetch Live Jobs
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 7am UTC every day
+  workflow_dispatch:        # allow manual trigger from GitHub UI
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch jobs from Adzuna
+        run: node scripts/fetch-jobs.js
+        env:
+          ADZUNA_APP_ID:  ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+
+      - name: Commit updated jobs.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update job listings [skip ci]'
+          file_pattern: jobs.json

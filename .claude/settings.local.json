@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(\\(Get-Content \"C:/Users/Noelle/Downloads/soctlandjob board.html\"\\).Count)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
