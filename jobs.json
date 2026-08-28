@@ -1,22 +1,412 @@
 {
-  "updated": "2026-08-27T18:07:44.773Z",
+  "updated": "2026-08-28T19:17:31.140Z",
   "jobs": [
     {
-      "id": "5858549353",
-      "title": "Software Engineering Consultant",
-      "company": "Henderson Scott",
-      "logo": "HS",
+      "id": "5859955469",
+      "title": "Site Reliability Engineer",
+      "company": "Bristow Holland Ltd",
+      "logo": "BH",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "Remote",
+      "salary": "£55k – £60k",
+      "tags": [
+        "Azure",
+        "Kubernetes"
+      ],
+      "description": "An exciting global technology organisation is looking for a Site Reliability Engineer (SRE) to join its growing engineering team. This is a fully remote position, offering the opportunity to work on large-scale, business-critical platforms used by customers around the world. The role would suit an experienced Site Reliability, DevOps, Platform or Cloud Engineer with strong hands-on experience across Kubernetes and Microsoft Azure who enjoys solving complex production problems, improving reliabi…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5859955469?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=3D53CF39EF9C88951BBB65C8410983E8E9F2DDA1",
+      "featured": false,
+      "date": "2026-08-28T18:54:06Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859768210",
+      "title": "DevOps Engineer, Network Automation",
+      "company": "Natwest Group",
+      "logo": "NG",
+      "city": "Edinburgh",
+      "category": "DevOps & Cloud",
+      "type": "On-site",
+      "salary": "£51k – £51k",
+      "tags": [],
+      "description": "Join us as a DevOps Engineer, Network Automation We’re looking for a DevOps Engineer to join our Network Automation team, helping design, build and operate automation capabilities that make network and infrastructure services faster, safer and more reliable You’ll work across automation, infrastructure-as-code and network-as-code practices, supporting secure, compliant and auditable change within a highly regulated financial services environment This is your opportunity to deepen your expertise…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859768210?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T16:28:45Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859757047",
+      "title": "Software Development Coach - Local Authority",
+      "company": "Spinwell Global",
+      "logo": "SG",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£58k – £58k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Role: Software Development Coach Contract Length: 12 Months with possible extension. Location: Hybrid/Edinburgh or Glasgow - expected to occasionally visit one of these locations as per the requirements of the role. IR35: Outside Pay Rate to Intermediary: £557.25 per day Security Clearance: BPSS Spinwell is recruiting for a Software Development Coach for an excellent opportunity within the public sector. RESPONSIBILITIES OF THE SOFTWARE DEVELOPMENT COACH An experienced, hands-on software engine…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859757047?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T16:18:18Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859714745",
+      "title": "Software Development Coach",
+      "company": "Experis UK",
+      "logo": "EU",
       "city": "Edinburgh",
       "category": "Engineering",
       "type": "On-site",
-      "salary": "£66k – £66k",
+      "salary": "£41k – £41k",
       "tags": [],
-      "description": "Software Development Consultant - Coaching - AI Adoption - 12 month contract - Edinburgh - outside IR35 I am looking for a hands-on Software Engineering Consultant to coach multiple software teams for our client in Edinburgh. You will help modernise engineering practices and embed responsible AI-assisted development. This is a hands-on role working with product and enablement teams to strengthen delivery, reduce risk and improve developer experience across a wide range of digital services. I am…",
+      "description": "Are you an experienced software engineering leader who enjoys helping teams improve how they build and deliver technology? Experis is supporting a leading Scottish organisation in the search for a hands-on Software Development Coach. This is an opportunity to influence engineering practices across multiple product and enablement teams while helping to deliver secure, resilient and maintainable digital services. What you'll be doing: * Partnering with teams to elevate engineering capability, del…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858549353?utm_medium=api&utm_source=3e8468e0",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859714745?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
-      "date": "2026-08-27T17:50:39Z",
+      "date": "2026-08-28T15:14:16Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859684842",
+      "title": "Software Development Engineer",
+      "company": "GRW Talent limited",
+      "logo": "GT",
+      "city": "Scotland",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£43k – £43k",
+      "tags": [],
+      "description": "SOFTWARE DEVELOPMENT ENGINEER (C# / WPF) PERMANENT ROLE, BASED LIVINGSTON / HYBRID - EXCELLENT SALARY PLUS BENEFITS Based in Livingston, Grw Talent's client comprises of a group of European companies engaged in the design, development, manufacture and distribution of analytical systems, life science equipment and laboratory instruments with operations dating back many years. Now part of a global multinational business, their fast growing multidisciplinary scientific and engineering group is loo…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5859684842?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=DBFE42E485C04C002927FE7EA554F55FEF7AB31E",
+      "featured": false,
+      "date": "2026-08-28T14:47:58Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859684841",
+      "title": "Data Visualisation Engineer",
+      "company": "Infinitive Resources",
+      "logo": "IR",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£104k – £111k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Job Title: Data Visualisation Expert Location: Hybrid 3 days per week in Glasgow office Employment Type: Contract Salary/day rate: Competitive Who are we? Infinitive is a medium-sized, highly successful, award-winning and growing company at the cutting edge of tech within the rail industry, utilising hardware, software and data. We have worked on many exciting projects recently (with more in the pipeline) and we have an impressive list of clients such as Network Rail, Transport for Wales, Trans…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5859684841?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=3E4FDA1794CBB5A5A91704C28FC34BA77FDDBCC1",
+      "featured": false,
+      "date": "2026-08-28T14:47:58Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859603045",
+      "title": "Senior Cloud Engineer",
+      "company": "Lorien Resourcing Limited",
+      "logo": "LR",
+      "city": "Edinburgh",
+      "category": "DevOps & Cloud",
+      "type": "On-site",
+      "salary": "£50k – £50k",
+      "tags": [
+        "Azure",
+        "Terraform",
+        "CI/CD"
+      ],
+      "description": "Salary: £50,000 - 50,000 per year Requirements: Hands-on Azure experience with a strong networking and security background Infrastructure as Code experience is essential; Bicep is our tool of choice, but strong Terraform experience is equally welcome DevOps experience, ideally with Azure DevOps and Git-based CI/CD Comfort and enthusiasm for mentoring less experienced colleagues Some exposure to architectural thinking is helpful, though this is primarily a hands-on engineering role No specific i…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859603045?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T11:42:40Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859602958",
+      "title": "Solution Designer",
+      "company": "Teksystems",
+      "logo": "TE",
+      "city": "Scotland",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£40k – £70k",
+      "tags": [
+        "Jira"
+      ],
+      "description": "Salary: £40,000 - 70,000 per year Requirements: API development experience Understanding and development of microservices Experience designing configuration templates for APIs Strong YAML templating and YAML code experience Strong analytical skills Ability to document discovery, design, and testing processes in Confluence Ability to create backlogs in JIRA Ability to understand different banking environments and translate them into accounting elements Visual Studio experience would be highly ap…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859602958?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T11:42:40Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859602357",
+      "title": "Software Engineering Manager - Data Platform",
+      "company": "Addepar",
+      "logo": "AD",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£69k – £109k",
+      "tags": [
+        "Python",
+        "AWS",
+        "Terraform",
+        "Java",
+        "SQL",
+        "MySQL"
+      ],
+      "description": "Salary: £69,000 - 109,000 per year Requirements: Bachelors degree in Computer Science or equivalent experience At least five years of experience Deep experience working with cloud infrastructure directly with infrastructure as code (e.g. Terraform) on AWS Deep technical knowledge of Java or Python, and datastores like DynamoDB, Postgres, MySQL, etc. Knowledge of systems design and distributed processing through technologies such as Apache Spark or Databricks / Snowflake is a huge plus Knowledge…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859602357?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T11:42:35Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859602133",
+      "title": "Lead Full Stack Software Engineer - React & Java",
+      "company": "JP Morgan Chase",
+      "logo": "JM",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£62k – £102k",
+      "tags": [
+        "React",
+        "Java",
+        "Agile",
+        "CI/CD"
+      ],
+      "description": "Salary: £62,000 - 102,000 per year Requirements: Hands-on practical experience delivering system design, application development, testing, and operational stability Advanced proficiency in one or more programming languages Proficiency in automation and continuous delivery methods Proficient in all aspects of the Software Development Life Cycle Advanced understanding of agile methodologies such as CI/CD, application resiliency, and security Demonstrated proficiency in software applications and t…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859602133?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T11:42:30Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859313879",
+      "title": "Senior AI Governance Consultant",
+      "company": "Anson Mccade",
+      "logo": "AM",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£95k – £95k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Role: Senior AI Governance Consultant Location: Edinburgh Salary:£70,000£95,000 An experienced consulting professional to design and operationalise AI governance at scale across regulated and complex organisations. Large multidisciplinary consulting firm operating across defence, government, financial services, life sciences and transport; global delivery footprint and multi-discipline project teams. Key responsibilities: - Lead design and implementation of AI governance frameworks, policies, c…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859313879?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T05:47:40Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859313476",
+      "title": "Senior Cloud Engineer",
+      "company": "Lorien Resourcing Limited",
+      "logo": "LR",
+      "city": "Edinburgh",
+      "category": "DevOps & Cloud",
+      "type": "Hybrid",
+      "salary": "£50k – £50k",
+      "tags": [
+        "Azure",
+        "Go"
+      ],
+      "description": "Senior Azure Cloud Engineer Public Sector Client | Strategy, Architecture & Innovation | Scotland-based, Hybrid About the Role We're working on behalf of a well-established public sector organisation to find a Senior Azure Cloud Engineer to join their Strategy, Architecture & Innovation team. This is a business delivering essential services to communities across Scotland, currently going through a significant cloud-first digital transformation. This is a hands-on engineering role at heart, with…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859313476?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T05:46:19Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859273332",
+      "title": "Senior Cloud Engineer",
+      "company": "Lorien Resourcing Limited",
+      "logo": "LR",
+      "city": "Edinburgh",
+      "category": "DevOps & Cloud",
+      "type": "Hybrid",
+      "salary": "£50k – £50k",
+      "tags": [
+        "Azure",
+        "Go"
+      ],
+      "description": "Senior Azure Cloud Engineer Public Sector Client | Strategy, Architecture & Innovation | Scotland-based, Hybrid About the Role We're working on behalf of a well-established public sector organisation to find a Senior Azure Cloud Engineer to join their Strategy, Architecture & Innovation team. This is a business delivering essential services to communities across Scotland, currently going through a significant cloud-first digital transformation. This is a hands-on engineering role at heart, with…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859273332?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T05:27:44Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859053309",
+      "title": "Lead Product Manager (Data)",
+      "company": "Anson Mccade",
+      "logo": "AM",
+      "city": "Glasgow",
+      "category": "Product",
+      "type": "Hybrid",
+      "salary": "£91k – £91k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Lead Product Manager (Data) £68,000-80,000 GBP Pension, Benefits Hybrid WORKING Location: Leeds; Birmingham; Glasgow; Bristol, Manchester, North West - United Kingdom Type: Permanent Lead Product Manager (Data) London Full Time | Up to £80,000 A leading digital consultancy delivering complex transformation programmes across the public and private sectors is looking for a Lead Product Manager (Data) to help shape and deliver innovative data products and platforms that drive meaningful business o…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859053309?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T01:49:26Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859052378",
+      "title": "Sr Lead AI Platform Engineer",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
+      "city": "Glasgow",
+      "category": "DevOps & Cloud",
+      "type": "On-site",
+      "salary": "£100k – £100k",
+      "tags": [],
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We're looking for a hands-on platform engineer ready to take their career to new heights. Join the ranks of top talent at one of the world's most influential companies. As a Platform Engineer - Senior VP at JPMorgan Chase within the International Private Bank (IPB) Technology Artificial Intelligence and Machine Learning (AIML) Team, you will design and own the platform, tooling, and infrastructure that our…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859052378?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T01:46:39Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859052381",
+      "title": "Lead Infrastructure Engineer - AWS Cloud Support Engineering",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
+      "city": "Glasgow",
+      "category": "DevOps & Cloud",
+      "type": "On-site",
+      "salary": "£100k – £100k",
+      "tags": [
+        "AWS"
+      ],
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Assume a vital position as a key member of a high-performing team that delivers infrastructure and performance excellence. This cloud support role will be instrumental in shaping the future at one of the world's largest and most influential companies - where your expertise drives real impact at scale. As a Lead Infrastructure Engineer at JPMorganChase within Cloud Foundational Services, you apply deep know…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859052381?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T01:46:39Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5859052380",
+      "title": "Sr Lead Software Engineer - Public Cloud",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£100k – £100k",
+      "tags": [
+        "Agile"
+      ],
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver mission critical foundational services for the Public Cloud Atlas product. As a Senior Lead Software Engineer at JPMorgan Chase, within Cloud Foundational Services Marketplace (Infrastructure Platforms), you are an essential part of a curious and inspiring agile team that works to enhance, build, and …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5859052380?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-28T01:46:39Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5858681034",
+      "title": "Lead Site Reliability Engineer",
+      "company": "Inspire People",
+      "logo": "IP",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£80k – £80k",
+      "tags": [
+        "Scala"
+      ],
+      "description": "Become part of a mission-driven digital team helping to build reliable, secure and scalable digital services that support economic growth across the UK. The Department for Business, Innovation, Science and Trade (BIST), in partnership with Inspire People, is seeking a Senior SRE Squad Lead with experience leading and developing engineers, strong DevOps and Site Reliability Engineering expertise, cloud platform experience, infrastructure-as-code capability and a passion for building resilient di…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858681034?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-27T21:38:33Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5858627665",
+      "title": "Senior Backend Engineer",
+      "company": "Inspire People",
+      "logo": "IP",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£64k – £80k",
+      "tags": [
+        "Python",
+        "Java",
+        "Go",
+        "Scala"
+      ],
+      "description": "Help build and operate reliable, scalable and secure digital services that support UK businesses and trade . Department for Business, Innovation, Science and Trade (BIST), in partnership with Inspire People, is seeking a Senior Backend Engineer. Whilst the team primarily develops in Python, we welcome applications from experienced backend developers with Java, C#, Go or similar object-oriented programming backgrounds, with experience designing, operating and improving distributed systems. This …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858627665?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-27T20:24:09Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5858627627",
+      "title": "Lead Site Reliability Engineer",
+      "company": "Inspire People",
+      "logo": "IP",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£64k – £80k",
+      "tags": [
+        "Scala"
+      ],
+      "description": "Become part of a mission-driven digital team helping to build reliable, secure and scalable digital services that support economic growth across the UK. The Department for Business, Innovation, Science and Trade (BIST), in partnership with Inspire People, is seeking a Senior SRE Squad Lead with experience leading and developing engineers, strong DevOps and Site Reliability Engineering expertise, cloud platform experience, infrastructure-as-code capability and a passion for building resilient di…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858627627?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-27T20:24:08Z",
       "source": "adzuna"
     },
     {
@@ -75,7 +465,7 @@
       "description": "Description We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As a Software Engineer II at JPMorgan Chase on the Pathfinder team, you are an active contributor in an agile team that builds and delivers trusted technology products in a secure, stable, and scalable way. The Pathfinder team owns the Application and Infrastructure Blueprint ecosystem across JPMC via the Kickstart Platform, enabling developers to build and deploy …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5858363322?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=92AA76EFB516DEB46A72ED07026AE2428938F90D",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5858363322?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=92AA76EFB516DEB46A72ED07026AE2428938F90D",
       "featured": false,
       "date": "2026-08-27T16:18:46Z",
       "source": "adzuna"
@@ -94,6 +484,24 @@
       "requirements": [],
       "perks": [],
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858341661?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-27T15:52:15Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5858341701",
+      "title": "Trainee Ai Engineer",
+      "company": "IT Career Switch",
+      "logo": "IC",
+      "city": "Edinburgh",
+      "category": "Data & AI",
+      "type": "On-site",
+      "salary": "£25k – £45k",
+      "tags": [],
+      "description": "Trainee AI Engineer - No Experience Needed! Ready to launch a future-proof career in AI - even if you have zero experience? We’re looking for ambitious individuals ready to break into the world of artificial intelligence and data science. Our industry-leading AI Traineeship is designed to take you from complete beginner to a highly employable Junior AI Engineer, with full training provided and a guaranteed job offer (£25K-£45K starting salary) within 20 miles of your location. Whether you're wo…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858341701?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-27T15:52:15Z",
       "source": "adzuna"
@@ -219,6 +627,26 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858151316?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-27T11:41:30Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5858150932",
+      "title": "Data Science Placement Programme",
+      "company": "Career Change",
+      "logo": "CC",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£26k – £35k",
+      "tags": [
+        "Python"
+      ],
+      "description": "Salary: £26,000 - 35,000 per year Requirements: No previous experience required Willingness to complete full data science training and certification Ability to complete online courses, practical projects, and portfolio development Interest in starting a career in data science Ability to complete the programme at a pace that suits your circumstances Responsibilities: Complete industry-recognized data science training from beginner to junior level Learn Python, R, machine learning, AI, and other …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858150932?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-27T11:41:28Z",
       "source": "adzuna"
     },
     {
@@ -369,49 +797,9 @@
       "source": "adzuna"
     },
     {
-      "id": "5858064337",
-      "title": "Lead Software Engineer",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Rust",
-        "Scala",
-        "Agile"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Lead Software Engineer at JPMorganChase within the Asset & Wealth Management International Private Bank Derivatives team, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple te…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858064337?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-27T09:46:47Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5858064350",
-      "title": "Platform Software Engineer",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£70k – £70k",
-      "tags": [],
-      "description": "hackajob is partnering directly with Leonardo to hire for this role. Job Description: Salary Range: Senior Engineer £45000 - £60000 Principal Engineer £54000 - £70000 Where this vacancy is being recruited across more than one grade, the successful candidate will be appointed to a specific assessed grade, and the applicable salary range will be that associated with the grade of appointment. Leonardo UK operates a grade-based salary framework with broad bands. The salary range shown reflects the …",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5858064350?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-27T09:46:47Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5857899876",
       "title": "Senior User Researcher",
-      "company": "Anson McCade",
+      "company": "Anson Mccade",
       "logo": "AM",
       "city": "Glasgow",
       "category": "Engineering",
@@ -446,24 +834,6 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5857849918?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-27T04:34:10Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5857631653",
-      "title": "Lead Software Engineer - Client Onboarding",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Create software that powers essential corporate functions and helps teams move faster with confidence. You'll join a curious, collaborative group of technologists focused on thoughtful design, analytics, development, and testing. You'll have the opportunity to grow your skills across the full software delivery lifecycle while working in modern engineering practices. If you enjoy solving complex problems an…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5857631653?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-27T01:45:18Z",
       "source": "adzuna"
     },
     {
@@ -569,6 +939,46 @@
       "source": "adzuna"
     },
     {
+      "id": "5857249556",
+      "title": "Software Development Coach",
+      "company": "McGregor Boyall Associates Limited",
+      "logo": "MB",
+      "city": "Scotland",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£65k – £65k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Software Development Coach Location: mostly remote with occasional trip to Edinburgh or Glasgow required Contract: 12-months with possible extensions Day rate: Outside ir35 £450-£500 p/d Join a cross-functional engineering environment where youll help strengthen software development capability, improve delivery and reduce technical and operational risk. Work across multiple product and enablement teams, providing practical coaching, technical guidance and support to embed secure, resilient and …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5857249556?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-26T21:35:16Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5857249460",
+      "title": "Senior Java Developer",
+      "company": "Bright Purple Resourcing",
+      "logo": "BP",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£90k – £90k",
+      "tags": [
+        "Java"
+      ],
+      "description": "Senior Java Developer Scotland Remote Our client, an established financial services company, is looking for a capable Senior Java Developer to strengthen their engineering function. You'll take a hands-on role in shaping the future of their post-trade platform, spanning proprietary systems, APIs, client-facing reporting and a web portal, alongside tailoring an existing third-party trading system. What's in it for you: Salary up to £90,000 Performance bonus Remote working Private healthcare Comp…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5857249460?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-26T21:34:45Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5857249448",
       "title": "Senior Java Developer",
       "company": "Bright Purple Resourcing",
@@ -606,7 +1016,7 @@
       "description": "Full Stack Developer – Full-time, Permanent Technology: TypeScript, AWS, React, React Native Location: East Kilbride, Scotland (soon moving to Glasgow - hybrid working, 4 days per week in the office) Salary: Up to £60,000 per annum DOE  Benefits The Opportunity: “Full stack” can sometimes mean maintaining an ageing application, switching endlessly between disconnected tasks, or being expected to cover every technical problem alone. This role offers something much more engaging: the opportunity …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857212519?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=2D4BC73275D30D24CFF4B97659334E38B8181AE8",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857212519?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=2D4BC73275D30D24CFF4B97659334E38B8181AE8",
       "featured": false,
       "date": "2026-08-26T19:22:47Z",
       "source": "adzuna"
@@ -637,26 +1047,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5857188828",
-      "title": "Senior Java Developer",
-      "company": "Bright Purple Resourcing",
-      "logo": "BP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£90k – £90k",
-      "tags": [
-        "Java"
-      ],
-      "description": "Senior Java Developer Scotland Remote Our client, an established financial services company, is looking for a capable Senior Java Developer to strengthen their engineering function. You'll take a hands-on role in shaping the future of their post-trade platform, spanning proprietary systems, APIs, client-facing reporting and a web portal, alongside tailoring an existing third-party trading system. What's in it for you: Salary up to £90,000 Performance bonus Remote working Private healthcare Comp…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5857188828?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-26T17:50:44Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5857138954",
       "title": "Principal Digital Specialist - Principal Data Engineer (Azure)",
       "company": "Scottish Water",
@@ -672,7 +1062,7 @@
       "description": "Together we are Trusted to Serve Scotland. Principal Data Engineer (Azure) We are seeking a Principal Data Engineer to join our Business Analytics team and lead the development of our cloud-based data platform. Our team’s mission is to turn data into actionable insights that support better decision‑making and deliver measurable value for the business. To enable this, we have built an Azure data platform built on lakehouse architecture. The platform leverages Fabric and Azure Databricks and prov…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857138954?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=7E19700D227E37E96FCA4A9897C33ED5E9E21613",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857138954?se=nhLjFRWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=7E19700D227E37E96FCA4A9897C33ED5E9E21613",
       "featured": false,
       "date": "2026-08-26T16:54:59Z",
       "source": "adzuna"
@@ -693,7 +1083,7 @@
       "description": "Together we are Trusted to Serve Scotland. Senior Digital Specialist - Azure Cloud Engineer It’s not every job where you make a difference for the people of Scotland. But it’s what’s behind every job here. Our work keeps Scotland’s water flowing - from reservoir to tap, and from sewer to treatment plant. Behind the scenes, we’re transforming how we do it, building smarter systems, stronger digital foundations, and making cloud the heart of it all. We’re looking for a Senior Azure Cloud Engineer…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857138957?se=TNUoLkKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=0D8B28AF340F1A1DCC03B38E9607E5257C339AE6",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857138957?se=1FWPGBWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=0D8B28AF340F1A1DCC03B38E9607E5257C339AE6",
       "featured": false,
       "date": "2026-08-26T16:54:59Z",
       "source": "adzuna"
@@ -714,7 +1104,7 @@
       "description": "Together we are Trusted to Serve Scotland. Principal Data Engineer (Azure) We are seeking a Principal Data Engineer to join our Business Analytics team and lead the development of our cloud-based data platform. Our team’s mission is to turn data into actionable insights that support better decision‑making and deliver measurable value for the business. To enable this, we have built an Azure data platform built on lakehouse architecture. The platform leverages Fabric and Azure Databricks and prov…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857138692?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=E274345A3636FB5805CE33EC7FE6F3CDAF456642",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5857138692?se=nhLjFRWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=E274345A3636FB5805CE33EC7FE6F3CDAF456642",
       "featured": false,
       "date": "2026-08-26T16:54:38Z",
       "source": "adzuna"
@@ -735,45 +1125,9 @@
       "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Full Stack Software Engineer III at JPMorgan Chase in the Asset Management Team, you will design and deliver secure, stable, and scalable technology products. You’ll work across multiple technical areas, supporting key business functions and objectives. You will collaborate with your team to solve complex problems, drive improvements, and ensure high-quality outcome…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856961016?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=405F1346D10CB3BCC62CEC4F5EC52CF8A6F52870",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856961016?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=405F1346D10CB3BCC62CEC4F5EC52CF8A6F52870",
       "featured": false,
       "date": "2026-08-26T16:22:07Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856959948",
-      "title": "Software Engineer",
-      "company": "Barclays",
-      "logo": "BA",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£34k – £34k",
-      "tags": [],
-      "description": "Job Description Purpose of the role To design, develop, and execute testing strategies to validate functionality, performance, and user experience, while collaborating with cross-functional teams to identify and resolve defects, and continuously improve testing processes and methodologies, to ensure software quality and reliability. Accountabilities Development and implementation of comprehensive test plans and strategies to validate software functionality and ensure compliance with established…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856959948?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=6E2AE3B40080E2BEA493708772D5050A8FFFDFF3",
-      "featured": false,
-      "date": "2026-08-26T16:21:48Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856955028",
-      "title": "Chatbot Developer (WhatsApp, Telegram, Discord) - Freelance",
-      "company": "Mindrift",
-      "logo": "MI",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£102k – £102k",
-      "tags": [],
-      "description": "Mindrift is looking for skilled Bot Developers (WhatsApp Business API, Telegram Bot API, Discord API) to join the Tendem project ( https://tendem.ai/ ) and build conversational bots and messaging-platform integrations for real-world applications. In this role, you'll use your bot engineering expertise, conversational design skills, and quality-focused approach to build reliable, useful bots and messaging integrations that deliver a great user experience. This part-time remote opportunity is ide…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5856955028?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-26T16:19:50Z",
       "source": "adzuna"
     },
     {
@@ -792,7 +1146,7 @@
       "description": "Senior Data Engineer Glasgow | £60,000 - £70,000  Excellent Benefits | On-site Ready to take ownership of a modern data platform and shape how data powers business decisions? We're seeking a Senior Data Engineer to play a pivotal role in the ongoing development of a large-scale Azure and Databricks data estate. This is a genuinely hands-on position where you'll spend your time building pipelines, modelling data, solving complex engineering challenges, and driving best practice across the platfo…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856892683?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=387E35807B717633DDB4DFEC72C78F50D81E8ABB",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856892683?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=387E35807B717633DDB4DFEC72C78F50D81E8ABB",
       "featured": false,
       "date": "2026-08-26T15:24:05Z",
       "source": "adzuna"
@@ -854,62 +1208,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5856595562",
-      "title": "Director of Site Reliability Engineering",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Join a globally recognized financial organization and advance your profession to new heights by contributing to revolutionary projects. You've discovered the perfect environment to have a major impact. As a Principal Site Reliability Engineer at JPMorgan Chase within the Corporate Technology and Enterprise Technology Team, you draw upon your advanced knowledge to identify new opportunities to influence cri…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856595562?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=2A1B9AD86451A7AB9073FD3BD3AB4B79A202F3E6",
-      "featured": false,
-      "date": "2026-08-26T09:47:20Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856594250",
-      "title": "Product Delivery Manager - Public Cloud SRE",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "DevOps & Cloud",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Product Delivery Manager - Public Cloud SRE within our global SRE and operational excellence organization, you lead the transformation of multi-cloud service platforms to improve reliability, change safety, operational efficiency, and customer experience. Leverage AI-enabled delivery and operations insights to increase throughput and predictability-accelerating planning, reducing delivery friction, im…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5856594250?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-26T09:46:30Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856592811",
-      "title": "Portfolio Director ServiceNow",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Go"
-      ],
-      "description": "hackajob is partnering directly with Atos to hire for this role. About Atos Group Atos Group is a global leader in digital transformation with c. 56,000 employees and annual revenue of c. 7.2 billion (at the go-forward perimeter), operating in 54 countries under two brands - Atos for services and Eviden for products and systems. European number one in cybersecurity and a leader in cloud, Atos Group is committed to a secure and decarbonized future and provides tailored AI-powered, end-to-end sol…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856592811?se=opgOL0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=6DB08A8FBC90C718BDFF656F69882F0A3F7AD9F6",
-      "featured": false,
-      "date": "2026-08-26T09:45:43Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5856591617",
       "title": "Software Engineer III - Data Engineering - Corporate Know Your Customer",
       "company": "Hackajob Ltd",
@@ -925,7 +1223,7 @@
       "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Join us to shape the future of financial technology and make a meaningful impact on millions of customers worldwide. As a Software Engineer at JPMorgan Chase in the Corporate Sector's agile data engineering team, you will promote the development of a trusted Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will work across multiple teams, define architecture and engineering standards,…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591617?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=0D2DE646DE38695F48FDCE176B229CC4FBB47F06",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5856591617?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-26T09:45:04Z",
       "source": "adzuna"
@@ -945,49 +1243,28 @@
       "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Director of Software Engineering in Corporate Technology, you will lead feature teams in Glasgow, ensuring their work aligns with our vision and goals. You will oversee project delivery, coordinate tasks across teams, and uphold the highest engineering standards. Your role involves mentoring engineers, collaborating with stakeholders, and making strategic decisions that shape our technology landscape.…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591529?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=2E92802FE5AE65645E2A4D1B56486D82E17AD3FA",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5856591529?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-26T09:45:02Z",
       "source": "adzuna"
     },
     {
-      "id": "5856591507",
-      "title": "Principal Software Engineer - Executive Director",
+      "id": "5856591551",
+      "title": "Lead Software Data Engineer - Corporate Know Your Customer",
       "company": "Hackajob Ltd",
       "logo": "HL",
       "city": "Glasgow",
-      "category": "Engineering",
+      "category": "Data & AI",
       "type": "On-site",
       "salary": "£100k – £100k",
       "tags": [
-        "Go"
+        "Rust",
+        "Agile"
       ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As we continue to accelerate the transformation of our technology and services, we are placing security and compliance at the heart of our engineering and platforms. This is an opportunity to lead at the intersection of infrastructure engineering, identity security, and AI-shaping how teams across the firm build and govern technology at scale. As a Principal Software Engineer at JPMorganChase within Infras…",
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Join us to shape the future of financial technology and make a meaningful impact on millions of customers worldwide. As a Lead Software Engineer at JPMorgan Chase in the Corporate Sector's agile data engineering team, you will promote the development of a trusted Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will lead across multiple teams, define architecture and engineering stand…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591507?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=7C24BC9B7FFE48176EEBE5DD8C04A7EF88B57186",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591539",
-      "title": "Lead Software Engineer - AWS GCP",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "AWS",
-        "GCP",
-        "Scala"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Lead Software Engineer in Cloud Foundational Services, you will enhance, build, and deliver secure, stable, and scalable technology products. You will lead delivery across multiple technical domains while staying hands-on with design, development, testing, and troubleshooting. You will help define and reinforce engineering standards that support firm objectives. You will partner with your team to impr…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591539?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=8DE50F896E0A3CAFC4F35C2CD3FD084CD320653A",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5856591551?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-26T09:45:02Z",
       "source": "adzuna"
@@ -1009,185 +1286,7 @@
       "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As a Lead Software Engineer at JPMorganChase, within the Treasury/Chief Investment Office (T/CIO), Corporate Technology team you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591512?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=89B351B7F004B8F56CE701C2CBB2AA609C855AF8",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591526",
-      "title": "Sr Lead Software Engineer - Public Cloud",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Agile"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver mission critical foundational services for the Public Cloud Atlas product. As a Senior Lead Software Engineer at JPMorgan Chase, within Cloud Foundational Services Marketplace (Infrastructure Platforms), you are an essential part of a curious and inspiring agile team that works to enhance, build, and …",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591526?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=A2E4846F5248774FE427B6756216DF3CD5A05B1F",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591514",
-      "title": "Corporate KYC Sr Lead Software Engineer",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Scala"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION If you are looking for a game-changing career, working for one of the world's leading financial institutions, you've come to the right place. As a Senior Lead Software Engineer at JPMorgan Chase in the Corporate Sector Data Engineering team, you will promote the development of secure, scalable, and innovative solutions for our Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will lead…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591514?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=B5EFAEE697C160520A322D1B95FD4E4C17B4EB05",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591500",
-      "title": "Lead Software Engineer - LLM Ops Platform Reliability",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Data & AI",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Kubernetes"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Help shape how AI systems run reliably in production at scale. In this role, you'll build and operate large language model serving infrastructure, bringing strong engineering fundamentals and site reliability practices to cutting-edge AI platforms. You'll work hands-on with cloud and Kubernetes-based deployments, deep observability, and cost-aware performance tuning. If you enjoy solving hard production pr…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591500?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=96E8DC111796982A99DDF47B75127ADC11203957",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591511",
-      "title": "Corporate KYC Principle Software Engineer - Executive Director",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Rust",
-        "Agile"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION If you are looking for a game-changing career, working for one of the world's leading financial institutions, you've come to the right place. As a Principal Software Engineer at JPMorgan Chase within the Corporate Sector, you provide expertise and engineering excellence as an integral part of an agile data engineering team. To enhance, build, and deliver a trusted market leading Global Know Your Customer (…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591511?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=33D06C02CEBF281DFD24896AAFD44EA572843F06",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591509",
-      "title": "Senior Lead Software Engineer - LLM Ops Platform Reliability",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Data & AI",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Kubernetes"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Help shape how AI systems run reliably in production at scale. In this role, you'll build and operate large language model serving infrastructure, bringing strong engineering fundamentals and site reliability practices to cutting-edge AI platforms. You'll work hands-on with cloud and Kubernetes-based deployments, deep observability, and cost-aware performance tuning. If you enjoy solving hard production pr…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591509?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=9973519A5EA48DF5D48E439895F08A0CD0F37222",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591551",
-      "title": "Lead Software Data Engineer - Corporate Know Your Customer",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Data & AI",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Rust",
-        "Agile"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Join us to shape the future of financial technology and make a meaningful impact on millions of customers worldwide. As a Lead Software Engineer at JPMorgan Chase in the Corporate Sector's agile data engineering team, you will promote the development of a trusted Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will lead across multiple teams, define architecture and engineering stand…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591551?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=C016F065B0B805964B6C8E584EFD1B3E7DFCF67F",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591517",
-      "title": "Lead Infrastructure Engineer - AWS Cloud Support Engineering",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "DevOps & Cloud",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "AWS"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Assume a vital position as a key member of a high-performing team that delivers infrastructure and performance excellence. This cloud support role will be instrumental in shaping the future at one of the world's largest and most influential companies - where your expertise drives real impact at scale. As a Lead Infrastructure Engineer at JPMorganChase within Cloud Foundational Services, you apply deep know…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591517?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=34A0B7C4F0A05A777F420CB745D9CD950946488A",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591508",
-      "title": "Senior Manager of SRE",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "DevOps & Cloud",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. The Chief Data & Analytics Office (CDAO) at JPMorgan Chase is responsible for accelerating the firm's data and analytics journey. This includes ensuring the quality, integrity, and security of the company's data, as well as leveraging this data to generate insights and drive decision-maki…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591508?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=BD3E2EFF29B6F7980838F933C22126A1F9347197",
-      "featured": false,
-      "date": "2026-08-26T09:45:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5856591495",
-      "title": "Sr Lead AI Platform Engineer",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "DevOps & Cloud",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We're looking for a hands-on platform engineer ready to take their career to new heights. Join the ranks of top talent at one of the world's most influential companies. As a Platform Engineer - Senior VP at JPMorgan Chase within the International Private Bank (IPB) Technology Artificial Intelligence and Machine Learning (AIML) Team, you will design and own the platform, tooling, and infrastructure that our…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5856591495?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=B214A9D91FD3CF3B6886531C122D5B9AC7F76D47",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5856591512?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-26T09:45:02Z",
       "source": "adzuna"
@@ -1547,26 +1646,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5855370335",
-      "title": "IT Director",
-      "company": "Rise Technical Recruitment Limited",
-      "logo": "RT",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "Hybrid",
-      "salary": "£60k – £70k",
-      "tags": [
-        "Go"
-      ],
-      "description": "Director of Technology Solutions Edinburgh / Hybrid £60,000 - £70,000  Long-Term Incentive  Bonus  Pension  28 Days Holiday  Development Are you an experienced Technology Director or senior software leader looking to build and lead a high-performing technology function within an ambitious and growing organisation? Brilliant opportunity on offer to take ownership of technology strategy, product delivery and team development while helping shape the future direction of a business undergoing an exc…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855370335?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-25T13:42:46Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5855370288",
       "title": "Data Scientist (AI / ML) - Near Edinburgh Hybrid - 42K, Bonus",
       "company": "SRG",
@@ -1737,6 +1816,50 @@
       "source": "adzuna"
     },
     {
+      "id": "5855328548",
+      "title": "Lead Software Engineer",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£100k – £100k",
+      "tags": [
+        "Rust",
+        "Scala",
+        "Agile"
+      ],
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Lead Software Engineer at JPMorganChase within the Asset & Wealth Management International Private Bank Derivatives team, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple te…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855328548?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-25T13:29:20Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5855328549",
+      "title": "SWE Data AI Engineer",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
+      "city": "Glasgow",
+      "category": "Data & AI",
+      "type": "On-site",
+      "salary": "£100k – £100k",
+      "tags": [
+        "Rust",
+        "Scala",
+        "Agile"
+      ],
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorganChase within the CT AWM Finance, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions acros…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855328549?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-25T13:29:20Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5855311766",
       "title": "Freelance Agent Evaluation Engineer",
       "company": "Mindrift",
@@ -1755,57 +1878,21 @@
       "source": "adzuna"
     },
     {
-      "id": "5855114834",
-      "title": "Junior Engineer",
-      "company": "DC Thomson",
-      "logo": "DT",
-      "city": "Dundee",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£23k – £23k",
-      "tags": [],
-      "description": "At Findmypast, we're passionate about helping people discover, preserve and share their family stories. Through innovative technology, historical records and engaging digital experiences, we connect millions of people with their past. We're looking for a Junior Software Engineer to join our Product & Technology team. This is an exciting opportunity for someone at the beginning of their engineering career who is eager to learn, grow and contribute to products used by customers around the world. …",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855114834?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-25T10:07:58Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5855114826",
-      "title": "Junior Engineer",
-      "company": "DC Thomson",
-      "logo": "DT",
-      "city": "Aberdeen",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£23k – £23k",
-      "tags": [],
-      "description": "At Findmypast, we're passionate about helping people discover, preserve and share their family stories. Through innovative technology, historical records and engaging digital experiences, we connect millions of people with their past. We're looking for a Junior Software Engineer to join our Product & Technology team. This is an exciting opportunity for someone at the beginning of their engineering career who is eager to learn, grow and contribute to products used by customers around the world. …",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855114826?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-25T10:07:58Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5855114837",
-      "title": "Junior Engineer",
-      "company": "DC Thomson",
-      "logo": "DT",
+      "id": "5855111718",
+      "title": "Lead Software Engineer",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
       "city": "Glasgow",
       "category": "Engineering",
       "type": "On-site",
-      "salary": "£23k – £23k",
+      "salary": "£100k – £100k",
       "tags": [],
-      "description": "At Findmypast, we're passionate about helping people discover, preserve and share their family stories. Through innovative technology, historical records and engaging digital experiences, we connect millions of people with their past. We're looking for a Junior Software Engineer to join our Product & Technology team. This is an exciting opportunity for someone at the beginning of their engineering career who is eager to learn, grow and contribute to products used by customers around the world. …",
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We are building the next generation of intelligent, cloud-native systems - and we want you to help lead the way. At JPMorganChase, you'll work at the intersection of software engineering, artificial intelligence, and cloud infrastructure, delivering solutions that matter at scale. This is an opportunity to grow your craft, shape engineering standards, and make a measurable impact on how the firm builds and…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855114837?utm_medium=api&utm_source=3e8468e0",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855111718?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
-      "date": "2026-08-25T10:07:58Z",
+      "date": "2026-08-25T09:43:45Z",
       "source": "adzuna"
     },
     {
@@ -1827,45 +1914,21 @@
       "source": "adzuna"
     },
     {
-      "id": "5855111383",
-      "title": "Lead SRE - Azure and GCP",
+      "id": "5855005120",
+      "title": "Product Delivery Manager - Public Cloud SRE",
       "company": "Hackajob Ltd",
       "logo": "HL",
       "city": "Glasgow",
       "category": "DevOps & Cloud",
       "type": "On-site",
       "salary": "£100k – £100k",
-      "tags": [
-        "Azure",
-        "GCP",
-        "Go"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION We have a Lead Site Reliability Engineer (SRE) opportunity within our Google Cloud Site Reliability Engineering team. As a Lead Site Reliability Engineer at JPMorgan Chase within the Infrastructure Platform - Cloud Foundational Services SRE organization, you will join our Google Cloud Site Reliability Engineering team operating within a global follow-the-sun support model. Job Responsibilities: Lead and Im…",
+      "tags": [],
+      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Product Delivery Manager - Public Cloud SRE within our global SRE and operational excellence organization, you lead the transformation of multi-cloud service platforms to improve reliability, change safety, operational efficiency, and customer experience. Leverage AI-enabled delivery and operations insights to increase throughput and predictability-accelerating planning, reducing delivery friction, im…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855111383?utm_medium=api&utm_source=3e8468e0",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855005120?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
-      "date": "2026-08-25T09:43:02Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5855111377",
-      "title": "Senior Lead Architect-Securities Services",
-      "company": "Hackajob Ltd",
-      "logo": "HL",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [
-        "Agile"
-      ],
-      "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION As a Senior Lead Solution Architect at JPMorganChase within the Securities Services Engineering & Architecture team, you will be part of a cross-functional agile team responsible for designing, assessing, and delivering high-quality solution architectures underpinning the platforms built as part of a strategic reengineering effort supporting the Securities Services businesses within the Commercial & Invest…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5855111377?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-25T09:43:02Z",
+      "date": "2026-08-25T05:31:13Z",
       "source": "adzuna"
     },
     {
@@ -1925,6 +1988,45 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5854688017?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-24T23:28:43Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5854688015",
+      "title": "Software Engineer III",
+      "company": "J.P. Morgan",
+      "logo": "JM",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£61k – £61k",
+      "tags": [
+        "Rust",
+        "Agile"
+      ],
+      "description": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION You're ready to gain the skills and experience needed to grow within your role and advance your career - and we have the perfect software engineering opportunity for you. As a Software Engineer III at JPMorganChase, within the Treasury/Chief Investment Office (T/CIO), Corporate Technology team, you serve as a seasoned member of an agile team to design and deliver trusted mark…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5854688015?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-24T23:28:43Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5854584220",
+      "title": "Software Engineer",
+      "company": "Hackajob Ltd",
+      "logo": "HL",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£70k – £70k",
+      "tags": [],
+      "description": "hackajob is partnering directly with Leonardo to hire for this role. Job Description: Salary Range: Engineer £38000 - £50000 Senior Engineer £45000 - £60000 Principal Engineer £54000 - £70000 Where this vacancy is being recruited across more than one grade, the successful candidate will be appointed to a specific assessed grade, and the applicable salary range will be that associated with the grade of appointment. Leonardo UK operates a grade-based salary framework with broad bands. The salary …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5854584220?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-24T21:41:16Z",
       "source": "adzuna"
     },
     {
@@ -2064,26 +2166,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5853716029",
-      "title": "Software Engineer",
-      "company": "Barclays",
-      "logo": "BA",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£51k – £51k",
-      "tags": [
-        "Scala"
-      ],
-      "description": "Job Description Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, d…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5853716029?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=F848D6732700A67FB613068ADE2D76C8597145E9",
-      "featured": false,
-      "date": "2026-08-23T16:35:32Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5853706977",
       "title": "Software Engineer III – Data Engineering- Corporate Know Your Customer",
       "company": "JPMorganChase",
@@ -2099,7 +2181,7 @@
       "description": "Description Join us to shape the future of financial technology and make a meaningful impact on millions of customers worldwide. As a Software Engineer at JPMorgan Chase in the Corporate Sector’s agile data engineering team, you will promote the development of a trusted Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will work across multiple teams, define architecture and engineering standards, and deliver high-impact software that scales. You’ll collaborate with colleag…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5853706977?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=05225EEC3BB83BDAACFEA8F02194AEFF094CC4FB",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5853706977?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=05225EEC3BB83BDAACFEA8F02194AEFF094CC4FB",
       "featured": false,
       "date": "2026-08-23T16:27:57Z",
       "source": "adzuna"
@@ -2258,7 +2340,7 @@
       "description": "Description Join us as a Data Engineer and help drive data innovation at JPMorganChase. You will collaborate with talented colleagues to deliver impactful solutions that power AI and analytics initiatives across the firm. We value your expertise, encourage growth, and support your journey to make a lasting impact. Experience a culture that celebrates diverse perspectives and fosters continuous learning. Job Summary: As a Data Engineer in the Corporate Technology team supporting CIO, Treasury & …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5852585907?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=EA703820FE2FE26A39037F509303845638F06E28",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5852585907?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=EA703820FE2FE26A39037F509303845638F06E28",
       "featured": false,
       "date": "2026-08-22T16:27:08Z",
       "source": "adzuna"
@@ -2317,7 +2399,7 @@
       "description": "Description Join us as a Lead Data Engineer and help shape the future of data-driven innovation at JPMorganChase. You will collaborate with talented colleagues to deliver impactful solutions that power AI and analytics initiatives across the firm. We value your expertise, encourage growth, and support your journey to make a lasting impact. Experience a culture that celebrates diverse perspectives and fosters continuous learning. Job Summary: As a Lead Data Engineer in the Corporate Technology t…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5852576589?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=33B7CE18F65F012853DB5D885E0A7FCFF559A18F",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5852576589?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=33B7CE18F65F012853DB5D885E0A7FCFF559A18F",
       "featured": false,
       "date": "2026-08-22T16:17:09Z",
       "source": "adzuna"
@@ -2512,7 +2594,7 @@
       "description": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5851144729?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=ED4E899879ACF126E0B4527726E214265A8B2243",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5851144729?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=ED4E899879ACF126E0B4527726E214265A8B2243",
       "featured": false,
       "date": "2026-08-21T16:19:34Z",
       "source": "adzuna"
@@ -2610,24 +2692,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5850293365",
-      "title": "Senior Product Engineer/ CTO scope",
-      "company": "Neogen AI Ltd",
-      "logo": "NA",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£70k – £70k",
-      "tags": [],
-      "description": "Senior Full Stack / Product Engineer Remote UK | £55,000£70,000 DOE | Permanent We're working with a profitable, growing UK SaaS business to find a Senior Full Stack / Product Engineer who wants genuine ownership of a product rather than simply joining another development team. This is a small, founder-led technology business with an established product and international customer base. You'll work closely with the founder and have significant influence over technical architecture, product decis…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5850293365?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-21T01:36:09Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5850153428",
       "title": "Backend Software Engineer / Java Software Engineer",
       "company": "Barclays",
@@ -2666,6 +2730,24 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5849948048?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-20T21:59:21Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5849938725",
+      "title": "Senior Product Engineer/ CTO scope",
+      "company": "Neogen AI Ltd",
+      "logo": "NA",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£70k – £70k",
+      "tags": [],
+      "description": "Senior Full Stack / Product Engineer Remote UK | £55,000£70,000 DOE | Permanent We're working with a profitable, growing UK SaaS business to find a Senior Full Stack / Product Engineer who wants genuine ownership of a product rather than simply joining another development team. This is a small, founder-led technology business with an established product and international customer base. You'll work closely with the founder and have significant influence over technical architecture, product decis…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5849938725?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-20T21:26:15Z",
       "source": "adzuna"
     },
     {
@@ -2721,7 +2803,7 @@
       "description": "Hardware Project Manager (Hybrid -2 days per week onsite, Tuesdays & Thursdays) Very Competitive Salary  32 Days Holiday  Bonus  Share Incentive Plan  Healthcare Scheme  Income Protection  Life Assurance  Flexible Working Hours  5% Pension Excellent opportunity for an experienced leader to join a growing and innovative R&D organisation, renowned for its supportive culture and investment in cutting-edge product development. This company is a well-established, international technology specialist …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5849576947?se=opgOL0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=253F437498AEF0754F0CD1B1DC35B8A41E069483",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5849576947?se=Xt46GRWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=253F437498AEF0754F0CD1B1DC35B8A41E069483",
       "featured": false,
       "date": "2026-08-20T13:25:43Z",
       "source": "adzuna"
@@ -2741,7 +2823,7 @@
       "description": "Full Stack Web Developer NO SPONSORSHIP OR RELOCATION available Glasgow / Hybrid 3 days Permanent | Full Time £65,000 - £80,000  Benefits We're looking for an experienced Full Stack Web Developer to join a growing technology team and help shape the digital customer experience across eCommerce, customer self-service and business-critical applications. This is a hands-on role where you'll develop, enhance and support customer-facing platforms, working across websites, online account portals and i…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5849576945?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=B5CCCFE1746D125E07535359BE04025D509F94CA",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5849576945?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=B5CCCFE1746D125E07535359BE04025D509F94CA",
       "featured": false,
       "date": "2026-08-20T13:25:43Z",
       "source": "adzuna"
@@ -2761,7 +2843,7 @@
       "description": "Principal Product Manager Location: Glasgow- Hybrid Salary: £80,000- £90,000 We are seeking a Principal Product Manager to join a growing digital consultancy delivering transformative digital solutions for Public and Private sector clients. Working across strategy, design and technology, you will lead the strategy and delivery of innovative data products that help organisations unlock greater value from their data. Key Responsibilities as a Principal Product Manager (Data) Lead strategy and del…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5849395330?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=FD62DAC796FB454BEE250F0F4B98C1AB71951136",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5849395330?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-20T09:36:32Z",
       "source": "adzuna"
@@ -2843,6 +2925,26 @@
       "source": "adzuna"
     },
     {
+      "id": "5848714423",
+      "title": "Senior Software Engineer",
+      "company": "Bright Purple Resourcing",
+      "logo": "BP",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£80k – £80k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Senior Software Engineer - London or Edinburgh One of the leading players in the UK and European Energy & Renewables tech sector is hiring for an AI-first Software Engineer to join its core product development team. As a part of this high performing and collaborative group of c.10-15, you will own one of the most powerful, real-time data engines in the entire sector, recognised as the gold standard for decision making and trading As the team are embracing AI-powered development, they are lookin…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5848714423?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-19T21:33:18Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5848392590",
       "title": "Data Products Engineer",
       "company": "Barclays",
@@ -2857,7 +2959,7 @@
       "description": "Job Description Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, d…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5848392590?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=D4545C123AAD8641EAA0B2FCA711C5937429E16C",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5848392590?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=D4545C123AAD8641EAA0B2FCA711C5937429E16C",
       "featured": false,
       "date": "2026-08-19T16:26:45Z",
       "source": "adzuna"
@@ -2880,6 +2982,27 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5848373855?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-19T16:21:57Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5848037078",
+      "title": "Software Engineer III",
+      "company": "J.P. Morgan",
+      "logo": "JM",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£51k – £51k",
+      "tags": [
+        "Rust",
+        "Agile"
+      ],
+      "description": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As a Lead Software Engineer at JPMorganChase within the Asset & Wealth Management Managed Accounts team, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and s…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5848037078?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-19T11:11:56Z",
       "source": "adzuna"
     },
     {
@@ -2950,7 +3073,7 @@
       "title": "Senior Consultant- Solution Architect",
       "company": "Capgemini",
       "logo": "CA",
-      "city": "Scotland",
+      "city": "Glasgow",
       "category": "Engineering",
       "type": "On-site",
       "salary": "£64k – £64k",
@@ -2979,24 +3102,6 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5847552301?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-19T01:30:10Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5847552255",
-      "title": "Consultant - Service Management Transformation",
-      "company": "Capgemini",
-      "logo": "CA",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£52k – £52k",
-      "tags": [],
-      "description": "Capgemini Invent At Capgemini Invent, we believe difference drives change. As inventive transformation consultants, we blend our strategic, creative and scientific capabilities, collaborating closely with clients to deliver cutting-edge solutions. Join us to drive transformation tailored to our client's challenges of today and tomorrow. Informed and validated by science and data. Superpowered by creativity and design. All underpinned by technology created with purpose. Your Role This is a high-…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5847552255?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-19T01:30:09Z",
       "source": "adzuna"
     },
     {
@@ -3048,7 +3153,7 @@
       "description": "We’re working with a global leader in telecoms test and measurement, delivering cutting edge technology to customers in over 65 countries. Due to continued growth and investment in R&D, they are looking for an experienced Project Manager to join their team. The Role - Project Manager - Hardware/Software - Edinburgh You’ll lead multi disciplinary engineering teams across electronics, software, and mechanical to deliver next generation products. Working closely with Product Management and senior …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5847013590?se=opgOL0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=E4255D97F1EC6ABAD7D9E883B04B9078233E6481",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5847013590?se=Xt46GRWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=E4255D97F1EC6ABAD7D9E883B04B9078233E6481",
       "featured": false,
       "date": "2026-08-18T16:58:39Z",
       "source": "adzuna"
@@ -3066,7 +3171,7 @@
       "description": "At Ashurst Perkins Coie, we're helping shape the future economy. With a global team of more than 3,500 legal professionals across 52 offices, we partner with leading organisations to solve complex challenges across a diverse range of industries, with a distinct strength in technology, energy & infrastructure, and financial services. Our people work on market-leading matters that drive innovation, growth, and transformation around the world.For Ashurst Perkins Coie, innovation is our tradition. …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5846916577?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=A6AECC25DBB5DCA187766BDCAACE9E0CD7BB21BB",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5846916577?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=A6AECC25DBB5DCA187766BDCAACE9E0CD7BB21BB",
       "featured": false,
       "date": "2026-08-18T16:26:43Z",
       "source": "adzuna"
@@ -3124,7 +3229,7 @@
       "description": "Job Title: Embedded Software Engineer Location: Edinburgh (Hybrid) Salary: Up to £55k (DOE) We’re looking for a talented and motivated Embedded Software Engineer to join a multi-disciplinary engineering team. This is an exciting opportunity to design, implement, and test embedded software across a range of microcontrollers, microprocessors, and Linux-based systems, contributing to innovative products and solutions. About the Role Design, develop, test, and maintain embedded software using C/C++…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845359455?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=8857F76F9211F3FEF7000AF22DC4F1E402BF7F9C",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845359455?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=8857F76F9211F3FEF7000AF22DC4F1E402BF7F9C",
       "featured": false,
       "date": "2026-08-17T18:42:57Z",
       "source": "adzuna"
@@ -3144,7 +3249,7 @@
       "description": "£68,000-80,000 GBP Pension, Benefits Hybrid WORKING Location: Leeds; Birmingham; Glasgow; Bristol, Manchester, North West - United Kingdom Type: Permanent Lead Product Manager (Data) London Full Time | Up to £80,000 A leading digital consultancy delivering complex transformation programmes across the public and private sectors is looking for a Lead Product Manager (Data) to help shape and deliver innovative data products and platforms that drive meaningful business outcomes. What You'll Have th…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845141786?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=56C2C5F6C4D222338BF0B90BBA99226BBC177EE4",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845141786?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=56C2C5F6C4D222338BF0B90BBA99226BBC177EE4",
       "featured": false,
       "date": "2026-08-17T13:04:35Z",
       "source": "adzuna"
@@ -3164,7 +3269,7 @@
       "description": "£78,000 - 90,000 GBP Pension, Benefits Hybrid WORKING Location: Birmingham; Bristol; Glasgow; Leeds, Manchester, North West - United Kingdom Type: Permanent Principal Product Manager (Data) UK Multiple Locations Full Time | up to £90,000 A leading digital consultancy delivering large-scale transformation programmes across the public and private sectors is looking for a Principal Product Manager (Data) to lead the strategy and delivery of innovative data products and platforms. What You'll Have …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845141735?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=F071716F480082F96627A439DF8C0BD319C9D83B",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845141735?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=F071716F480082F96627A439DF8C0BD319C9D83B",
       "featured": false,
       "date": "2026-08-17T13:04:30Z",
       "source": "adzuna"
@@ -3185,7 +3290,7 @@
       "description": "£50,000-65,000 GBP Pension, Benefits Hybrid WORKING Location: Glasgow, Scotland - United Kingdom Type: Permanent Full Stack Developer Location: Glasgow / Hybrid Salary: £50,000 - £64,000  Benefits About the Role We're seeking a Full Stack Developer to join a leading digital consultancy delivering impactful projects across public and private sector organisations. You'll work within multidisciplinary teams to build secure, scalable, cloud-native solutions using modern technologies and engineering…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845141711?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=A7838ACFB17E7424B91B7436BFEB2493EBE79567",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5845141711?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=A7838ACFB17E7424B91B7436BFEB2493EBE79567",
       "featured": false,
       "date": "2026-08-17T13:04:30Z",
       "source": "adzuna"
@@ -3280,7 +3385,7 @@
       "description": "Job Description Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, d…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5844294014?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=2ED7E73F5DDF4BE17426891E7EA01B90CF1B0659",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5844294014?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=2ED7E73F5DDF4BE17426891E7EA01B90CF1B0659",
       "featured": false,
       "date": "2026-08-16T16:15:13Z",
       "source": "adzuna"
@@ -3362,6 +3467,24 @@
       "source": "adzuna"
     },
     {
+      "id": "5843779369",
+      "title": "Software Developer Placement Programme No experience needed",
+      "company": "IT Online Learning",
+      "logo": "IO",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£65k – £65k",
+      "tags": [],
+      "description": "Software Developer Placement Programme No experience needed From £27,000 to £65,000 per annum Trainee Software Developer £27,000£65,000 Job Programme This is a self-funded programme that leads to employment, fees apply. Job Guarantee Complete the programme and get a job, or get your course fees back. Location: UK Wide (Remote Opportunities Available) Looking to start a career in Software Development? We are offering a structured pathway into Software Development, designed to help you enter the …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5843779369?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-16T02:34:43Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5843170841",
       "title": "Software Engineer III - Cloud Data Platform (AWS/Databricks, Terraform)",
       "company": "JPMorganChase",
@@ -3378,7 +3501,7 @@
       "description": "Description Your expertise in cloud infrastructure and data platforms can shape how an entire enterprise accesses, processes, and trusts its data. At JPMorganChase, we build platforms that operate at a scale few organizations ever encounter — and we do it with a team that values craftsmanship, collaboration, and continuous improvement. This is an opportunity to grow your skills, deepen your cloud and data platform expertise, and make a direct impact on solutions that matter to the business and …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5843170841?se=TNUoLkKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=CBC59D493D429F6135BF5B0C8985A93DC7C661A4",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5843170841?se=1FWPGBWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=CBC59D493D429F6135BF5B0C8985A93DC7C661A4",
       "featured": false,
       "date": "2026-08-15T16:29:55Z",
       "source": "adzuna"
@@ -3399,6 +3522,24 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5843166724?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-15T16:24:46Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5843164201",
+      "title": "Lifecycle Services Teamcenter Administrator",
+      "company": "NOV",
+      "logo": "NO",
+      "city": "Scotland",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£46k – £46k",
+      "tags": [],
+      "description": "Description Lifecycle Services Teamcenter Administrator — Temporary Position About the Role As a Lifecycle Services Teamcenter Administrator, you will support the implementation and adoption of Teamcenter by reviewing, validating, and maintaining engineering and spare-parts information. Your work will directly contribute to improving data quality, supporting project close-out activities, and ensuring accurate records are available for future service and operational requirements. Initially, your…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5843164201?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-15T16:22:11Z",
       "source": "adzuna"
     },
     {
@@ -3452,7 +3593,7 @@
       "description": "Engineering Manager-Product Configuration Glasgow/Filton/Portsmouth(hybrid 1-2 days p/w) Competitive Salary Bonus My client a multi-national Aerospace & Defence organisation are looking for a Engineering Manager to join either their Glasgow, Filton or Portsmouth sites working on a hybrid basis. They will also consider candidates from other locations working on a more remote basis Role description: In this role, you will lead in analysing local business Product Configuration processes to tailor …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5842912188?se=opgOL0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=D2555D6DA8939D99EADF389E3FC1924BA1BF1535",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5842912188?se=Xt46GRWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=D2555D6DA8939D99EADF389E3FC1924BA1BF1535",
       "featured": false,
       "date": "2026-08-15T11:01:40Z",
       "source": "adzuna"
@@ -3479,6 +3620,26 @@
       "source": "adzuna"
     },
     {
+      "id": "5842150319",
+      "title": "Director of Software Engineering",
+      "company": "J.P. Morgan",
+      "logo": "JM",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£63k – £63k",
+      "tags": [
+        "Go"
+      ],
+      "description": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION As a Director of Software Engineering in Corporate Technology, you will lead feature teams in Glasgow, ensuring their work aligns with our vision and goals. You will oversee project delivery, coordinate tasks across teams, and uphold the highest engineering standards. Your role involves mentoring engineers, collaborating with stakeholders, and making strategic decisions that …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5842150319?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-14T21:48:29Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5842122866",
       "title": "Technical Consultant – Infrastructure & Software Delivery",
       "company": "Acuro Associates Ltd",
@@ -3491,7 +3652,7 @@
       "description": "Technical Consultant – Infrastructure & Software Delivery Location: UK (Fully Remote). Must be based in the UK Sector: Enterprise Software The Role We're looking for a Technical Consultant to deliver and support enterprise software solutions within customer environments across on-premise, hosted and cloud infrastructures. This is a hands-on technical consultancy role combining software implementation, infrastructure troubleshooting, deployment automation and customer-facing technical delivery. …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5842122866?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=5E1F027D994F5DB2567B88AF01A9A41992DA8426",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5842122866?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=5E1F027D994F5DB2567B88AF01A9A41992DA8426",
       "featured": false,
       "date": "2026-08-14T19:54:34Z",
       "source": "adzuna"
@@ -3509,9 +3670,27 @@
       "description": "Product Manager - Near Edinburgh - Circa 80K plus Bonus Hybrid - 2/3 days in office per week plus international travel a few times per year Lorien's longstanding client based near Edinburgh, a leader in their industry with an award-winning product line making a huge difference around the globe, is looking for a Product Manager well versed in regulated settings and technical product delivery to join their team. The role focuses on the company's core, globally distributed product portfolio and th…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5841829228?se=opgOL0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=6C8E27880A74397A4DF2474807233C62F833400E",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5841829228?se=Xt46GRWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=6C8E27880A74397A4DF2474807233C62F833400E",
       "featured": false,
       "date": "2026-08-14T13:56:56Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5841764021",
+      "title": "Lifecycle Services Teamcenter Administrator",
+      "company": "NOV",
+      "logo": "NO",
+      "city": "Aberdeen",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£51k – £51k",
+      "tags": [],
+      "description": "Job Description Lifecycle Services Teamcenter Administrator - Temporary Position About the Role As a Lifecycle Services Teamcenter Administrator, you will support the implementation and adoption of Teamcenter by reviewing, validating, and maintaining engineering and spare-parts information. Your work will directly contribute to improving data quality, supporting project close-out activities, and ensuring accurate records are available for future service and operational requirements. Initially, …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5841764021?se=Xt46GRWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=F7396E5A1C26CEACBA4BCA67CF94D210319DA4DC",
+      "featured": false,
+      "date": "2026-08-14T12:10:48Z",
       "source": "adzuna"
     },
     {
@@ -3535,27 +3714,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5841550743",
-      "title": "Google Cloud Platform Architect",
-      "company": "Sanderson Recruitment",
-      "logo": "SR",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£104k – £130k",
-      "tags": [
-        "GCP",
-        "Go"
-      ],
-      "description": "-Google Cloud Platform Architect -Glasgow -Daily Rate - £450 via umbrella -6 months initially -ASAP Start Brand new contract opportunity to the market for a seasoned Google Cloud Platform Architect, working on a large-scale programme for our global client, based out of their Glasgow office. This role requires a highly experienced GCP Architect, who can design and deliver complex cloud-native solutions, make strategic architectural decisions, and solve ambiguous technical challenges. The success…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5841550743?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-08-14T10:46:49Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5841092350",
       "title": "Applied Science Manager, Advertising Demand Tech",
       "company": "Amazon",
@@ -3571,6 +3729,46 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5841092350?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-14T02:35:21Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5840658171",
+      "title": "Senior Software Engineer",
+      "company": "Bright Purple Resourcing",
+      "logo": "BP",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£80k – £80k",
+      "tags": [
+        "Scala"
+      ],
+      "description": "Senior Software Engineer - London or Edinburgh We are working with a long-standing, UK-based consultancy with a well-earned reputation for excellence, who are looking for a Senior Software Engineer to join their software team, a role blending hands-on development with genuine ownership of design and architecture, shaping scalable, resilient platforms that are growing fast. The Benefits: You'll join a multi-award-winning, people-first organisation with a benefits package built around your wellbe…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5840658171?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-13T21:23:12Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5840657874",
+      "title": "Embedded Software Engineer",
+      "company": "ZENOVO LTD",
+      "logo": "ZL",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£60k – £60k",
+      "tags": [
+        "Linux"
+      ],
+      "description": "Job Title: Embedded Software Engineer Location: Edinburgh (Hybrid) Salary: Up to £55k (DOE) We're looking for a talented and motivated Embedded Software Engineer to join a multi-disciplinary engineering team. This is an exciting opportunity to design, implement, and test embedded software across a range of microcontrollers, microprocessors, and Linux-based systems, contributing to innovative products and solutions. About the Role Design, develop, test, and maintain embedded software using C/C++…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5840657874?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-13T21:22:24Z",
       "source": "adzuna"
     },
     {
@@ -3604,9 +3802,29 @@
       "description": "Technology Product Director - Engineering Software UK Based / Hybrid £70,000 - £80,000  Share Ownership  Bonus  Pension  Holiday Are you a commercially minded software leader with experience taking complex technical products from development through to customer-ready launch? Brilliant opportunity on offer to join a growing, privately owned engineering-led business where you will take full ownership of technology strategy, software product delivery and commercialisation while building and develo…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5840635707?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=A6DB168A01CC5E142952B66D61B1B939EC3E36AA",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5840635707?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=A6DB168A01CC5E142952B66D61B1B939EC3E36AA",
       "featured": false,
       "date": "2026-08-13T19:48:56Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5840516453",
+      "title": "Embedded Software Engineer",
+      "company": "ZENOVO LTD",
+      "logo": "ZL",
+      "city": "Scotland",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£64k – £64k",
+      "tags": [
+        "Linux"
+      ],
+      "description": "Job Title: Embedded Software Engineer Location: Edinburgh (Hybrid) Salary: Up to £55k (DOE) We're looking for a talented and motivated Embedded Software Engineer to join a multi-disciplinary engineering team. This is an exciting opportunity to design, implement, and test embedded software across a range of microcontrollers, microprocessors, and Linux-based systems, contributing to innovative products and solutions. About the Role Design, develop, test, and maintain embedded software using C/C++…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5840516453?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-13T17:40:22Z",
       "source": "adzuna"
     },
     {
@@ -3624,7 +3842,7 @@
       "description": "Description As a Director of Software Engineering in Corporate Technology, you will lead feature teams in Glasgow, ensuring their work aligns with our vision and goals. You will oversee project delivery, coordinate tasks across teams, and uphold the highest engineering standards. Your role involves mentoring engineers, collaborating with stakeholders, and making strategic decisions that shape our technology landscape. You will help build a culture of innovation and continuous improvement. Job R…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5840401243?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=9E4457EBB51C40A8AFCEFE2D107B5D620C64E2BE",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5840401243?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=9E4457EBB51C40A8AFCEFE2D107B5D620C64E2BE",
       "featured": false,
       "date": "2026-08-13T16:31:27Z",
       "source": "adzuna"
@@ -3642,7 +3860,7 @@
       "description": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5840397665?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=2ECA350D19DC0EA53C4A9A40A973EB101A5DBBBA",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5840397665?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=2ECA350D19DC0EA53C4A9A40A973EB101A5DBBBA",
       "featured": false,
       "date": "2026-08-13T16:28:45Z",
       "source": "adzuna"
@@ -3743,6 +3961,29 @@
       "source": "adzuna"
     },
     {
+      "id": "5838448819",
+      "title": "Java Software Engineer III",
+      "company": "JPMorganChase",
+      "logo": "JP",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£74k – £74k",
+      "tags": [
+        "Java",
+        "Rust",
+        "Scala",
+        "Agile"
+      ],
+      "description": "Description Serve as an emerging member of an agile team to enhance, build, and deliver technology products with our dynamic, innovative team. As a Java Software Engineer III at JPMorganChase within the Global Technology team, you will serve as a member of an agile team to design and deliver trusted, market-leading technology products in a secure, stable, and scalable way. In this role, you will help build and evolve the Portfolio Management platform, delivering portfolio management capabilitie…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5838448819?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=4FC47DFBDC63492542DF17104D34DFDE63715D35",
+      "featured": false,
+      "date": "2026-08-12T16:16:48Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5838441331",
       "title": "Software Engineer III - AI/ML Platform Reliability",
       "company": "JPMorganChase",
@@ -3757,7 +3998,7 @@
       "description": "Description Are you passionate about building resilient, scalable systems that power the future of AI? At JPMorganChase, we're pushing the boundaries of what's possible with artificial intelligence and machine learning — and we need engineers like you to help us do it reliably, securely, and at scale. As a Software Engineer III at JPMorganChase within the AI/ML Data Platforms organization, you will be a key member of the Reliability Engineering team, contributing to the design and delivery of t…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5838441331?se=NnK4MEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=EB4CA81DFB846A9CCEDA0A3C04C21C5E50E5CB11",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5838441331?se=jLnLGhWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=EB4CA81DFB846A9CCEDA0A3C04C21C5E50E5CB11",
       "featured": false,
       "date": "2026-08-12T16:14:20Z",
       "source": "adzuna"
@@ -3796,24 +4037,6 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5837959250?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-12T09:39:46Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5837727287",
-      "title": "Junior AI Engineer / Machine Learning Engineer no experience needed",
-      "company": "NEWTO TRAINING LIMITED",
-      "logo": "NT",
-      "city": "Glasgow",
-      "category": "Data & AI",
-      "type": "On-site",
-      "salary": "£65k – £65k",
-      "tags": [],
-      "description": "*This is a self-funded career programme with a guaranteed job on completion or 100% of your course fees back* Train. Certify. Get Hired. AI is expected to generate 170 million jobs by 2030 and at present experienced professionals can earn salaries of upwards of £66,000. In todays digital world, AI is transforming every aspect of our lives and is at the heart of modern technological advancements. As skills shortages continue to grow, the demand for qualified entry-level professionals is on the r…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5837727287?se=NnK4MEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=0E0BE19EE903EE8E9F74C3F9BB23F457C3C02C52",
-      "featured": false,
-      "date": "2026-08-12T05:18:57Z",
       "source": "adzuna"
     },
     {
@@ -3867,7 +4090,7 @@
       "description": "Job Description Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, d…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5836847262?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=3F155E3F66644F03FC4B33C09997CD11A41F0ECE",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5836847262?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=3F155E3F66644F03FC4B33C09997CD11A41F0ECE",
       "featured": false,
       "date": "2026-08-11T16:29:21Z",
       "source": "adzuna"
@@ -3961,7 +4184,7 @@
       "description": "*This is a self-funded career programme with a guaranteed job on completion or 100% of your course fees back* Train. Certify. Get Hired. AI is expected to generate 170 million jobs by 2030 and at present experienced professionals can earn salaries of upwards of £66,000. In todays digital world, AI is transforming every aspect of our lives and is at the heart of modern technological advancements. As skills shortages continue to grow, the demand for qualified entry-level professionals is on the r…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5835793870?se=NnK4MEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=8AD56418BA760F183E232DBDFAD1E483D10218D4",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5835793870?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-10T17:18:56Z",
       "source": "adzuna"
@@ -4103,23 +4326,21 @@
       "source": "adzuna"
     },
     {
-      "id": "5834463628",
-      "title": "Senior AI Governance Consultant",
-      "company": "Anson Mccade",
-      "logo": "AM",
-      "city": "Edinburgh",
-      "category": "Engineering",
+      "id": "5834316034",
+      "title": "Junior AI Engineer / Machine Learning Engineer no experience needed",
+      "company": "NEWTO TRAINING LIMITED",
+      "logo": "NT",
+      "city": "Glasgow",
+      "category": "Data & AI",
       "type": "On-site",
-      "salary": "£95k – £95k",
-      "tags": [
-        "Go"
-      ],
-      "description": "Role: Senior AI Governance Consultant Location: Edinburgh Salary:£70,000£95,000 An experienced consulting professional to design and operationalise AI governance at scale across regulated and complex organisations. Large multidisciplinary consulting firm operating across defence, government, financial services, life sciences and transport; global delivery footprint and multi-discipline project teams. Key responsibilities: - Lead design and implementation of AI governance frameworks, policies, c…",
+      "salary": "£65k – £65k",
+      "tags": [],
+      "description": "*This is a self-funded career programme with a guaranteed job on completion or 100% of your course fees back* Train. Certify. Get Hired. AI is expected to generate 170 million jobs by 2030 and at present experienced professionals can earn salaries of upwards of £66,000. In todays digital world, AI is transforming every aspect of our lives and is at the heart of modern technological advancements. As skills shortages continue to grow, the demand for qualified entry-level professionals is on the r…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5834463628?utm_medium=api&utm_source=3e8468e0",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5834316034?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
-      "date": "2026-08-09T09:21:38Z",
+      "date": "2026-08-09T05:13:39Z",
       "source": "adzuna"
     },
     {
@@ -4138,24 +4359,6 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5833762223?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-08T18:30:11Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5832938795",
-      "title": "AI Engineer Placement Programme No Experience Needed",
-      "company": "IT Online Learning",
-      "logo": "IO",
-      "city": "Glasgow",
-      "category": "Data & AI",
-      "type": "On-site",
-      "salary": "£75k – £75k",
-      "tags": [],
-      "description": "AI Engineer Placement Programme no experience needed From £45,000 to £75,000 per annum AI Trainee Engineer £45,000£75,000 Job Programme This is a self-funded programme that leads to employment, fees apply. Job Guarantee Complete the programme and get a job, or get your course fees back. Location: UK Wide (Remote Opportunities Available) Looking to start a career in AI Engineering? We are offering a structured pathway into AI Engineering, designed to help you enter one of the fastest-growing sec…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5832938795?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=648ACAFA8790D859610C6E85F70CD1406DD2B8F0",
-      "featured": false,
-      "date": "2026-08-08T05:11:35Z",
       "source": "adzuna"
     },
     {
@@ -4267,7 +4470,7 @@
       "description": "Description We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. Join our innovative External Regulatory Financial Control/Strategic Data team at JPMorganChase, where we leverage cutting-edge technology to drive data-driven decision-making and enhance business performance. If you are passionate about transforming data into actionable insights and thrive in a collaborative, high-impact environment, this is the role for you. As a …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5832268094?se=Fo7UMUKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=3F105399028BFCF886BF48E0DEB003E90288FD6A",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5832268094?se=oArAGxWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=3F105399028BFCF886BF48E0DEB003E90288FD6A",
       "featured": false,
       "date": "2026-08-07T18:48:11Z",
       "source": "adzuna"
@@ -4289,7 +4492,7 @@
       "description": "Description Be an integral part of an agile team that's constantly pushing the envelope to enhance, build, and deliver mission critical foundational services for the Public Cloud Atlas product. As a Senior Lead Software Engineer at JPMorgan Chase, within Cloud Foundational Services Marketplace (Infrastructure Platforms), you are an essential part of a curious and inspiring agile team that works to enhance, build, and deliver trusted technology products in a secure, stable, and scalable way. Dri…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5832257429?se=TNUoLkKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=49AFB0563C8D1F91E88F98F6C631B8456DCF4595",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5832257429?se=1FWPGBWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=49AFB0563C8D1F91E88F98F6C631B8456DCF4595",
       "featured": false,
       "date": "2026-08-07T18:38:50Z",
       "source": "adzuna"
@@ -4313,24 +4516,6 @@
       "source": "adzuna"
     },
     {
-      "id": "5831512224",
-      "title": "Software Developer Placement Programme No experience needed",
-      "company": "IT Online Learning",
-      "logo": "IO",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£65k – £65k",
-      "tags": [],
-      "description": "Software Developer Placement Programme No experience needed From £27,000 to £65,000 per annum Trainee Software Developer £27,000£65,000 Job Programme This is a self-funded programme that leads to employment, fees apply. Job Guarantee Complete the programme and get a job, or get your course fees back. Location: UK Wide (Remote Opportunities Available) Looking to start a career in Software Development? We are offering a structured pathway into Software Development, designed to help you enter the …",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5831512224?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=8E3670CB23CEB5C9D87AFBE0C9FB2924B33DDF04",
-      "featured": false,
-      "date": "2026-08-07T05:09:53Z",
-      "source": "adzuna"
-    },
-    {
       "id": "5831512228",
       "title": "AI Engineer Placement Programme No Experience Needed",
       "company": "IT Online Learning",
@@ -4343,7 +4528,7 @@
       "description": "AI Engineer Placement Programme no experience needed From £45,000 to £75,000 per annum AI Trainee Engineer £45,000£75,000 Job Programme This is a self-funded programme that leads to employment, fees apply. Job Guarantee Complete the programme and get a job, or get your course fees back. Location: UK Wide (Remote Opportunities Available) Looking to start a career in AI Engineering? We are offering a structured pathway into AI Engineering, designed to help you enter one of the fastest-growing sec…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5831512228?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=EB74CA64D8FC50A546189CD78232F1E638AC2280",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5831512228?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-08-07T05:09:53Z",
       "source": "adzuna"
@@ -4383,7 +4568,7 @@
       "description": "Lead Software Engineer  Remote (UK) |  BPSS Required | ️ Public Sector Experience Essential  About Amber Labs Amber Labs is a leading UK and European technology consultancy delivering secure, user-centred digital services for government and public sector organisations. We foster a culture of collaboration, autonomy, and continuous learning, giving our teams the opportunity to solve complex challenges using modern technologies while delivering meaningful outcomes for citizens.  What's in It for …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830845195?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=6A1E99721D5EF639C9A6C05480AE59CF42D23333",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830845195?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=6A1E99721D5EF639C9A6C05480AE59CF42D23333",
       "featured": false,
       "date": "2026-08-06T19:26:13Z",
       "source": "adzuna"
@@ -4405,7 +4590,7 @@
       "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorganChase within the CT AWM Finance, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within various business functions in support of the…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830787612?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=1A6AE28A7067AB19AE7DA39C44EB89BB3B551A66",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830787612?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=1A6AE28A7067AB19AE7DA39C44EB89BB3B551A66",
       "featured": false,
       "date": "2026-08-06T17:57:28Z",
       "source": "adzuna"
@@ -4448,7 +4633,7 @@
       "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Full Stack Software Engineer III at JPMorganChase within the Corporate Technology's Regulatory Risk Team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out critical technology solutions across multiple technical areas within vari…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830786396?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=793038D27E6052A5B96CDDA21E952925A978A201",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830786396?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=793038D27E6052A5B96CDDA21E952925A978A201",
       "featured": false,
       "date": "2026-08-06T17:47:22Z",
       "source": "adzuna"
@@ -4466,7 +4651,7 @@
       "description": "Description Join the Atlas On Premise and Next Generation Infrastructure team as a Lead Software Engineer, where you will play a pivotal role in delivering a first-class private cloud offering. In this position, you will focus exclusively on private cloud solutions, working to enable multiple hypervisor platforms and striving to deliver a consistent end user experience across both on-premise and public cloud environments. As a high-quality software engineer, you will design, develop, and optimi…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830784222?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=DDBF9D5193C32421067A60B09801D746A1C5E2B4",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830784222?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=DDBF9D5193C32421067A60B09801D746A1C5E2B4",
       "featured": false,
       "date": "2026-08-06T17:36:16Z",
       "source": "adzuna"
@@ -4524,7 +4709,7 @@
       "description": "Data Scientist (AI / ML) - Near Edinburgh Hybrid - 42K plus Bonus Hybrid - 2/3 days in office per week Lorien's longstanding client based near Edinburgh, a leader in their industry with an award-winning product line making a huge difference around the globe, have asked us to help them in their search for a Data Scientist with a good grasp of Artificial Intelligence / Machine Learning to form a key part of their already innovative, highly collaborative R&D-style environment. You'll use your tale…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830421648?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=08AE305289059A0D588B2F1F12A90EE589183F10",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830421648?se=nhLjFRWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=08AE305289059A0D588B2F1F12A90EE589183F10",
       "featured": false,
       "date": "2026-08-06T13:28:16Z",
       "source": "adzuna"
@@ -4542,9 +4727,27 @@
       "description": "Senior Software Engineer - C# / .NET (Web and Windows) - Near Edinburgh Hybrid - 70K plus Bonus Lorien's longstanding client based near Edinburgh - a leader in their industry with a growing and award-winning product line making a huge difference around the globe - have asked us to help them in their searches for a Senior Software Engineer with .Net skills across Web and Windows applications. This is a hands-on development role with a strong focus on C# / .NET, full-stack development, user inter…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830421491?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=997C7624475FE55038FB969F455CA328054F26B8",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5830421491?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=997C7624475FE55038FB969F455CA328054F26B8",
       "featured": false,
       "date": "2026-08-06T13:28:08Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5830015499",
+      "title": "Senior Software Engineering Manager",
+      "company": "Saxon Recruitment Solutions",
+      "logo": "SR",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£100k – £100k",
+      "tags": [],
+      "description": "Senior Software Engineering Manager - Edinburgh / Hybrid This Senior Software Engineering Manager role in Networking is a great technology to work on as it is a key enabler for the rollout of future AI technologies and Data Centres. It offers flexibility and variety, the opportunity to remain hands on technically whilst providing the capability to influence and direct development at a division level. These are interesting growth technologies in Virtualised Networks and Automation Software. The …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5830015499?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-06T05:08:45Z",
       "source": "adzuna"
     },
     {
@@ -4570,7 +4773,7 @@
     {
       "id": "5829403323",
       "title": "Senior AI Governance Consultant",
-      "company": "Anson McCade",
+      "company": "Anson Mccade",
       "logo": "AM",
       "city": "Edinburgh",
       "category": "Engineering",
@@ -4623,7 +4826,7 @@
       "description": "Description We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As part of JPMorganChase's Corporate Technology organization, you will work alongside talented engineers, designers, and product leaders on meaningful, high-impact problems — all while growing your craft in one of the world's most dynamic technology organizations. Here, your contributions matter, your ideas are heard, and your growth is supported at every stage. As…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829340099?se=9LTML0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=3503E8370ADE3E81AF70DF2D8E7FF53E18A902B0",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829340099?se=bontGRWj8RG-MbcvCVrxzQ&utm_medium=api&utm_source=3e8468e0&v=3503E8370ADE3E81AF70DF2D8E7FF53E18A902B0",
       "featured": false,
       "date": "2026-08-05T17:55:07Z",
       "source": "adzuna"
@@ -4646,7 +4849,7 @@
       "description": "Description As a Lead Software Engineer at JPMorganChase within Corporate Technology, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm's business objectives. Job responsibilities Execute software…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829339178?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=C0EB7B34B29A65F8A0D5065000AAE1283ECD69B9",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829339178?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=C0EB7B34B29A65F8A0D5065000AAE1283ECD69B9",
       "featured": false,
       "date": "2026-08-05T17:52:14Z",
       "source": "adzuna"
@@ -4666,7 +4869,7 @@
       "description": "Description If you are looking for a game-changing career, working for one of the world's leading financial institutions, you’ve come to the right place. As a Senior Lead Software Engineer at JPMorgan Chase in the Corporate Sector Data Engineering team, you will promote the development of secure, scalable, and innovative solutions for our Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will lead across multiple teams, define architecture and engineering standards, and del…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829338777?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=664706F12D82370BAC177CB47204F760C5A7468C",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829338777?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=664706F12D82370BAC177CB47204F760C5A7468C",
       "featured": false,
       "date": "2026-08-05T17:50:04Z",
       "source": "adzuna"
@@ -4686,7 +4889,7 @@
       "description": "Description Shape the future of enterprise technology — join a team where your full stack expertise drives real impact across one of the world's most complex financial institutions. As a Software Engineer III at JPMorganChase within Corporate Technology, you will apply proficient full stack engineering skills to design, build, and evolve modern, resilient applications that support controls and operational risk outcomes across critical corporate functions — including Finance, Risk Management, Hu…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829338005?se=9LTML0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=4CCC86BE61E8B7C37103AF3A07D343DEB5C95010",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829338005?se=bontGRWj8RG-MbcvCVrxzQ&utm_medium=api&utm_source=3e8468e0&v=4CCC86BE61E8B7C37103AF3A07D343DEB5C95010",
       "featured": false,
       "date": "2026-08-05T17:47:45Z",
       "source": "adzuna"
@@ -4707,7 +4910,7 @@
       "description": "Description Join us to shape the future of financial technology and make a meaningful impact on millions of customers worldwide. As a Lead Software Engineer at JPMorgan Chase in the Corporate Sector’s agile data engineering team, you will promote the development of a trusted Global Know Your Customer (KYC) and Risk Assessment Data Platform. You will lead across multiple teams, define architecture and engineering standards, and deliver high-impact software that scales. You’ll collaborate with co…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829337177?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=01D023C5415ABCB48D0EC85776C85B6DC7F48F65",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829337177?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=01D023C5415ABCB48D0EC85776C85B6DC7F48F65",
       "featured": false,
       "date": "2026-08-05T17:44:48Z",
       "source": "adzuna"
@@ -4732,7 +4935,7 @@
       "description": "Description We have an exciting and rewarding opportunity for you to take your software engineering career to the next level. As a Software Engineer III at JPMorganChase within Risk Technology, you are a seasoned member of an agile team focused on designing and delivering trusted, market-leading technology products in a secure, stable, and scalable way. You bring technical depth across the full stack — from modern React and TypeScript frontends to Java and Spring Boot backend services — and you…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829336170?se=rvFRMUKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=2B085D894F7212ECBCFE9411B377B50934471E95",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5829336170?se=epJFGxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=2B085D894F7212ECBCFE9411B377B50934471E95",
       "featured": false,
       "date": "2026-08-05T17:42:00Z",
       "source": "adzuna"
@@ -4772,7 +4975,7 @@
       "description": "Data Scientist - REC000101643 Location: Hybrid, 3 days from home and 2 days from our beautiful Gourock office Contract: Permanent, full-time Monday – Friday Salary: £55k - £60k basic salary depending on skills and experience, plus benefits Turn Data Into Insight. Insight Into Action. The insight team uses robust analytics and research methodologies to deliver an industry-leading insight service into the business, making recommendations, driving strategies, and facilitating confident 'data-led' …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5828804663?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=4EFA498807DEE2A591A81EDDFCB818E92A5A9133",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5828804663?se=nhLjFRWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=4EFA498807DEE2A591A81EDDFCB818E92A5A9133",
       "featured": false,
       "date": "2026-08-05T07:43:54Z",
       "source": "adzuna"
@@ -4810,7 +5013,7 @@
       "description": "Job Description Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, d…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5828047908?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=932DA124F0569A063F2C67FC0E47D73EB422EB9E",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5828047908?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=932DA124F0569A063F2C67FC0E47D73EB422EB9E",
       "featured": false,
       "date": "2026-08-04T17:57:35Z",
       "source": "adzuna"
@@ -4830,7 +5033,7 @@
       "description": "Job Description Purpose of the role To design, develop and improve software, utilising various engineering methodologies, that provides business, platform, and technology capabilities for our customers and colleagues. Accountabilities Development and delivery of high-quality software solutions by using industry aligned programming languages, frameworks, and tools. Ensuring that code is scalable, maintainable, and optimized for performance. Cross-functional collaboration with product managers, d…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5828047873?se=XM90MkKi8RGJ35lZBgd8oQ&utm_medium=api&utm_source=3e8468e0&v=570DA95C9C8B89A485B664F53318779246C8DCEC",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5828047873?se=hvdGHBWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=570DA95C9C8B89A485B664F53318779246C8DCEC",
       "featured": false,
       "date": "2026-08-04T17:57:05Z",
       "source": "adzuna"
@@ -4888,7 +5091,7 @@
       "description": "Would you like to be part of a team focused on increasing adoption of Amazon Web Services in Higher Education in Scotland? Do you have the business savvy and the technical background necessary to help establish Amazon as a key technology platform provider? As Account Manager in Higher Education, you will have the exciting opportunity to help promote the growth and shape the future of an emerging technology. Your responsibility will be to increase the market penetration of AWS in the higher educ…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5826703750?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=AEEAD48D2CF0F8E11A3806B99BD7F79AB85CF54F",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5826703750?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=AEEAD48D2CF0F8E11A3806B99BD7F79AB85CF54F",
       "featured": false,
       "date": "2026-08-03T16:44:45Z",
       "source": "adzuna"
@@ -4929,7 +5132,7 @@
       "description": "We are seeking a Vice President, Identity Security Engineer to help shape and deliver a major identity modernisationprogramme, migrating from SailPoint IdentityIQ to SailPoint Identity Security Cloud. This is a hands-on technical leadership role for an engineer who enjoys solving complex security, data, integration and operating-model challenges at enterprise scale. You will work with engineering, security, operations and business partners to design a modern identity platform that is secure, re…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5826634915?se=TNUoLkKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=3291B0B4766E052311B1D217763CCBB9E4BE4471",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5826634915?se=1FWPGBWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=3291B0B4766E052311B1D217763CCBB9E4BE4471",
       "featured": false,
       "date": "2026-08-03T15:06:55Z",
       "source": "adzuna"
@@ -4994,6 +5197,28 @@
       "source": "adzuna"
     },
     {
+      "id": "5825872389",
+      "title": "Full Stack Software Engineer II - Java",
+      "company": "JPMorganChase",
+      "logo": "JP",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£53k – £53k",
+      "tags": [
+        "Java",
+        "Scala",
+        "Agile"
+      ],
+      "description": "Description You're ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you. As a Software Engineer II at JPMorganChase within the Commercial & Investment Bank, Payments Technology, you are part of an agile team that works to enhance, design, and deliver the software components of the firm's state-of-the-art technology products in a secure, stable, and scalable way. As an emerging member of…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5825872389?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=8AB63EBE4EBA3F4A52E358CE16A7BA2C050F76DD",
+      "featured": false,
+      "date": "2026-08-02T18:21:38Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5825832661",
       "title": "Lead Infrastructure Engineer - AWS Cloud Support Engineering",
       "company": "JPMorganChase",
@@ -5008,7 +5233,7 @@
       "description": "Description Assume a vital position as a key member of a high-performing team that delivers infrastructure and performance excellence. This cloud support role will be instrumental in shaping the future at one of the world's largest and most influential companies — where your expertise drives real impact at scale. As a Lead Infrastructure Engineer at JPMorganChase within Cloud Foundational Services, you apply deep knowledge of software, applications, and technical processes within the infrastruc…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5825832661?se=TNUoLkKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=F8D9DD62203F48809AB17C04CDD8959938E49C6F",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5825832661?se=1FWPGBWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=F8D9DD62203F48809AB17C04CDD8959938E49C6F",
       "featured": false,
       "date": "2026-08-02T18:09:26Z",
       "source": "adzuna"
@@ -5028,7 +5253,7 @@
       "description": "Job Description Summary As a Senior Software Engineer, you’ll be responsible for providing technical leadership and designing, developing, and evolving of world leading Grid Software products that enable the analysis and management of real-time data. As part of the team, you will develop innovative algorithms and architectures that solve real-world problems and be responsible for software lifecycle including activities such as requirement analysis, documentation/procedures, and implementation. …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5825831287?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=784C2279D80D55DBB3AF3A44FB274E4FB0450E5B",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5825831287?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=784C2279D80D55DBB3AF3A44FB274E4FB0450E5B",
       "featured": false,
       "date": "2026-08-02T18:08:27Z",
       "source": "adzuna"
@@ -5054,6 +5279,26 @@
       "source": "adzuna"
     },
     {
+      "id": "5824915633",
+      "title": "Senior Software Engineer",
+      "company": "GE Vernova",
+      "logo": "GV",
+      "city": "Edinburgh",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£63k – £63k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Job Description Summary As a Senior Software Engineer, you'll be responsible for providing technical leadership and designing, developing, and evolving of world leading Grid Software products that enable the analysis and management of real-time data. As part of the team, you will develop innovative algorithms and architectures that solve real-world problems and be responsible for software lifecycle including activities such as requirement analysis, documentation/procedures, and implementation. …",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5824915633?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-08-02T02:09:49Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5824428282",
       "title": "Sr Lead Infrastructure Engineer- Devops/AWS",
       "company": "JPMorganChase",
@@ -5068,7 +5313,7 @@
       "description": "Description We're looking for a hands-on DevOps / SRE engineer ready to take their career to new heights. Join the ranks of top talent at one of the world's most influential companies. As a Lead DevOps / SRE Engineer - Vice President at JPMorgan Chase within the International Private Bank (IPB) Technology Artificial Intelligence and Machine Learning (AIML) Team, you will own the automation, reliability, and production operations of our agentic AI and machine learning products. As the team takes…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5824428282?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=F2D8FDE11F13D8D38384C0FC62125E5B332E23A8",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5824428282?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=F2D8FDE11F13D8D38384C0FC62125E5B332E23A8",
       "featured": false,
       "date": "2026-08-01T18:25:53Z",
       "source": "adzuna"
@@ -5090,7 +5335,7 @@
       "description": "Description If you are looking for a game-changing career, working for one of the world's leading financial institutions, you’ve come to the right place. As a Director of Data Engineering at JPMorgan Chase within the Corporate Sector, you provide expertise and engineering excellence as an integral part of an agile data engineering team. To enhance, build, and deliver a trusted market leading Global Know Your Customer (KYC) and Risk Assessment Data Platform in a secure, stable, and scalable way.…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5824353907?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=4E76161E8D6C487E681B7C2C2283C71680AB7972",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5824353907?se=huWzFhWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=4E76161E8D6C487E681B7C2C2283C71680AB7972",
       "featured": false,
       "date": "2026-08-01T18:07:58Z",
       "source": "adzuna"
@@ -5150,7 +5395,7 @@
       "description": "Director of Technology Solutions Edinburgh / Hybrid £60,000 - £70,000  Long-Term Incentive  Bonus  Pension  28 Days Holiday  Development Are you an experienced Technology Director or senior software leader looking to build and lead a high-performing technology function within an ambitious and growing organisation? Brilliant opportunity on offer to take ownership of technology strategy, product delivery and team development while helping shape the future direction of a business undergoing an exc…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5822328712?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=9CE9BBB5E5406003C39430C6DB825B14D8B73268",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5822328712?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=9CE9BBB5E5406003C39430C6DB825B14D8B73268",
       "featured": false,
       "date": "2026-07-31T12:58:32Z",
       "source": "adzuna"
@@ -5172,7 +5417,7 @@
       "description": "hackajob is partnering directly with JPMorganChase to hire for this role. JOB DESCRIPTION Your expertise in cloud infrastructure and data platforms can shape how an entire enterprise accesses, processes, and trusts its data. At JPMorganChase, we build platforms that operate at a scale few organizations ever encounter ?? and we do it with a team that values craftsmanship, collaboration, and continuous improvement. This is an opportunity to grow your skills, deepen your cloud and data platform ex…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5822242536?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=B4F7B947567ABDDB3544756FD6F3137499415DC3",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5822242536?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-07-31T11:09:46Z",
       "source": "adzuna"
@@ -5196,33 +5441,9 @@
       "description": "Edinburgh-based SaaS Organisation, with a market-leading product, are looking for a collaborative Software Engineer (with good experience using the .Net framework and JavaScript / TypeScript) to join their agile team - modern tech! They've been running really successfully now for several years and their product is used worldwide, largely both within the UK and the US. It's a data-focused product that is proven to enhance the efficiency within organisations and ultimately lower costs. They've go…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5822233066?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=5CC1D68AB64E70858851F45515FE72F6795047E5",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5822233066?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=5CC1D68AB64E70858851F45515FE72F6795047E5",
       "featured": false,
       "date": "2026-07-31T10:57:53Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5821847894",
-      "title": "GCP Developer",
-      "company": "Square One Resources",
-      "logo": "SO",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£76k – £76k",
-      "tags": [
-        "AWS",
-        "Azure",
-        "GCP",
-        "Kubernetes",
-        "Go"
-      ],
-      "description": "Job Title: GCP Developer Location: Glasgow Start Date: August Job Type: Contract - Inside IR35 We are seeking an experienced GCP Developer to support the delivery of a large-scale, next-generation multi-cloud platform. This is a hands-on role focused on designing and automating Google Cloud Platform infrastructure, building Kubernetes-native solutions, and driving cloud engineering best practices. Working within a modern cloud environment spanning GCP, AWS, Azure and on-premise, you'll help del…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5821847894?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-31T02:46:00Z",
       "source": "adzuna"
     },
     {
@@ -5260,7 +5481,7 @@
       "description": "Description We're looking for a hands-on senior AI engineer ready to take their career to new heights. Join the ranks of top talent at one of the world's most influential companies. As a Senior AI Engineer at JPMorgan Chase within the International Private Bank (IPB) Technology Artificial Intelligence and Machine Learning (AIML) Team, you provide deep engineering expertise and work across agile teams to enhance, build, and deliver trusted market-leading AI products in a secure, stable, and scal…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821413789?se=NnK4MEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=5D2D9D428EE9AB33322950015BB86A4AA0D904F9",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821413789?se=jLnLGhWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=5D2D9D428EE9AB33322950015BB86A4AA0D904F9",
       "featured": false,
       "date": "2026-07-30T18:25:08Z",
       "source": "adzuna"
@@ -5278,7 +5499,7 @@
       "description": "Job Description Purpose of the role To create user-centred and visually appealing designs for digital banking products by conducting user research, design of user interfaces and experiences, collaboration with stakeholders, and continuous improvement. Accountabilities Execution of user research and usability tests to understand customer needs, pain points, and integrate feedback and preferences to banking products and services, through collaboration with various stakeholders, including product …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821413569?se=9LTML0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=75CF6D2122A04753673B28E9B861BBFF6E336ED2",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821413569?se=bontGRWj8RG-MbcvCVrxzQ&utm_medium=api&utm_source=3e8468e0&v=75CF6D2122A04753673B28E9B861BBFF6E336ED2",
       "featured": false,
       "date": "2026-07-30T18:24:27Z",
       "source": "adzuna"
@@ -5298,7 +5519,7 @@
       "description": "Description We're looking for a hands-on AI engineer eager to grow. Join the ranks of top talent at one of the world's most influential companies. As an Applied AI ML Engineer – Associate at JPMorgan Chase within the International Private Bank (IPB) Technology Artificial Intelligence and Machine Learning (AIML) Team, you will design, develop, and deliver components of our agentic AI and machine learning products. Working under the direction of senior engineers and the AIML Team Lead, you will t…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821387183?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=B69E83653B1FD89F326929CC3513E62826ED445F",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821387183?se=nhLjFRWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=B69E83653B1FD89F326929CC3513E62826ED445F",
       "featured": false,
       "date": "2026-07-30T18:18:55Z",
       "source": "adzuna"
@@ -5316,7 +5537,7 @@
       "description": "Description We're looking for a hands-on platform engineer ready to take their career to new heights. Join the ranks of top talent at one of the world's most influential companies. As a Platform Engineer - Senior VP at JPMorgan Chase within the International Private Bank (IPB) Technology Artificial Intelligence and Machine Learning (AIML) Team, you will design and own the platform, tooling, and infrastructure that our agentic AI and machine learning products depend on. As the team moves from sh…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821358300?se=yOmVK0Ki8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=E05C0FCBC99750C0302A02D8B25DD8818A727AF7",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821358300?se=5CWrFxWj8RG2KeasH0Kubw&utm_medium=api&utm_source=3e8468e0&v=E05C0FCBC99750C0302A02D8B25DD8818A727AF7",
       "featured": false,
       "date": "2026-07-30T18:14:24Z",
       "source": "adzuna"
@@ -5334,29 +5555,9 @@
       "description": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821352201?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=562FFAD30B10501FCB100793C670326959DA8D29",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5821352201?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=562FFAD30B10501FCB100793C670326959DA8D29",
       "featured": false,
       "date": "2026-07-30T18:11:36Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5821182110",
-      "title": "Lead Product Manager (Data)",
-      "company": "Anson Mccade",
-      "logo": "AM",
-      "city": "Glasgow",
-      "category": "Product",
-      "type": "Hybrid",
-      "salary": "£91k – £91k",
-      "tags": [
-        "Go"
-      ],
-      "description": "Lead Product Manager (Data) £68,000-80,000 GBP Pension, Benefits Hybrid WORKING Location: Leeds; Birmingham; Glasgow; Bristol, Manchester, North West - United Kingdom Type: Permanent Lead Product Manager (Data) London Full Time | Up to £80,000 A leading digital consultancy delivering complex transformation programmes across the public and private sectors is looking for a Lead Product Manager (Data) to help shape and deliver innovative data products and platforms that drive meaningful business o…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5821182110?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-30T15:10:56Z",
       "source": "adzuna"
     },
     {
@@ -5418,6 +5619,24 @@
       "source": "adzuna"
     },
     {
+      "id": "5818632305",
+      "title": "Junior Software Engineer",
+      "company": "NCR Atleos",
+      "logo": "NA",
+      "city": "Dundee",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£39k – £39k",
+      "tags": [],
+      "description": "About NCR Atleos NCR Atleos, headquartered in Atlanta, is a leader in expanding financial access. Our dedicated 20,000 employees optimize the branch, improve operational efficiency and maximize self-service availability for financial institutions and retailers across the globe. Title: Junior Software Engineer Location: Dundee Grade: 9 Job Description An opportunity has arisen in the Engineering organisation for a Software/Firmware Engineer within the Secure Devices team, developing security pro…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5818632305?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-07-28T18:18:35Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5818225717",
       "title": "Senior Java / SQL Developer",
       "company": "Methods Business and Digital Technology",
@@ -5458,9 +5677,29 @@
       "source": "adzuna"
     },
     {
+      "id": "5817558750",
+      "title": "Software Engineer - Xplan",
+      "company": "Fruition Group",
+      "logo": "FG",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "Hybrid",
+      "salary": "£75k – £75k",
+      "tags": [
+        "Go"
+      ],
+      "description": "Software Engineer - Xplan Glasgow - Hybrid working Basic salary up to £77k We're hiring a Software Engineer with strong IRESS Xplan experience to join a growing technology team building and enhancing an internal Xplan capability. This is a great opportunity for an experienced Application Engineer, Software Engineer, Xplan Developer, or Application Support Analyst looking to work on business-critical financial planning technology and play a key role in shaping the future of the platform. The Sof…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5817558750?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-07-27T19:05:45Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5816607683",
       "title": "Full Stack Developer",
-      "company": "Anson McCade",
+      "company": "Anson Mccade",
       "logo": "AM",
       "city": "Glasgow",
       "category": "Engineering",
@@ -5510,9 +5749,27 @@
       "description": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer …",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5816494712?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=0E9713DFDAF158D41AD89D111392B7D743DE6E49",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5816494712?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=0E9713DFDAF158D41AD89D111392B7D743DE6E49",
       "featured": false,
       "date": "2026-07-26T12:12:02Z",
+      "source": "adzuna"
+    },
+    {
+      "id": "5816309760",
+      "title": "Lead Software Engineer",
+      "company": "J.P. Morgan",
+      "logo": "JM",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£73k – £73k",
+      "tags": [],
+      "description": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION We are building the next generation of intelligent, cloud-native systems - and we want you to help lead the way. At JPMorganChase, you'll work at the intersection of software engineering, artificial intelligence, and cloud infrastructure, delivering solutions that matter at scale. This is an opportunity to grow your craft, shape engineering standards, and make a measurable im…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5816309760?utm_medium=api&utm_source=3e8468e0",
+      "featured": false,
+      "date": "2026-07-26T09:01:14Z",
       "source": "adzuna"
     },
     {
@@ -5552,6 +5809,28 @@
       "source": "adzuna"
     },
     {
+      "id": "5815363211",
+      "title": "Python Lead Software Engineer",
+      "company": "JPMorganChase",
+      "logo": "JP",
+      "city": "Glasgow",
+      "category": "Engineering",
+      "type": "On-site",
+      "salary": "£73k – £73k",
+      "tags": [
+        "Python",
+        "Scala",
+        "Agile"
+      ],
+      "description": "Description As a Lead Software Engineer in Credit Technology at JPMorgan Chase, you will join an agile team building secure, scalable, and resilient front-office solutions that power trading, ref data management, and P&L. You will design, develop, and troubleshoot multiple components across complex systems while partnering closely with traders and control functions to deliver reliable, low-latency workflows. Job Responsibilities Executes creative software solutions, design, development, and tec…",
+      "requirements": [],
+      "perks": [],
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5815363211?se=kgQIFRWj8RGEeLI7Dotn4Q&utm_medium=api&utm_source=3e8468e0&v=42A8F0EA52D847B3EF5FE81B8CF491A426161EA6",
+      "featured": false,
+      "date": "2026-07-25T12:27:05Z",
+      "source": "adzuna"
+    },
+    {
       "id": "5815361427",
       "title": "Software Engineer III",
       "company": "JPMorganChase",
@@ -5568,7 +5847,7 @@
       "description": "Description You’re ready to gain the skills and experience needed to grow within your role and advance your career — and we have the perfect software engineering opportunity for you. As a Software Engineer III at JPMorganChase, within the Treasury/Chief Investment Office (T/CIO), Corporate Technology team, you serve as a seasoned member of an agile team to design and deliver trusted market-leading technology products in a secure, stable, and scalable way. You are responsible for carrying out cr…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5815361427?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=2F990E9BAC18C7328378524D78EC12E8C6EA184B",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5815361427?se=7Lc3FBWj8RGcfKYe_cIpvA&utm_medium=api&utm_source=3e8468e0&v=2F990E9BAC18C7328378524D78EC12E8C6EA184B",
       "featured": false,
       "date": "2026-07-25T12:24:08Z",
       "source": "adzuna"
@@ -5588,7 +5867,7 @@
       "description": "Description Are you a senior Python engineer who wants to work at the intersection of data platforms and applied AI? This is your opportunity to join a small, high-impact team building something new from the ground up — where your decisions shape the architecture, not just the backlog. At JPMorganChase, we invest in engineers who are curious, pragmatic, and ready to grow into emerging technology stacks. As a Senior Lead Software Engineer at JPMorganChase within the Corporate Technology Data and…",
       "requirements": [],
       "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5815357638?se=_hRoJUKi8RGhLffPfv7Txw&utm_medium=api&utm_source=3e8468e0&v=7BF5388C1E39206A170825207D08094507EACA78",
+      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5815357638?se=nhLjFRWj8RGxSf1iGXKoQA&utm_medium=api&utm_source=3e8468e0&v=7BF5388C1E39206A170825207D08094507EACA78",
       "featured": false,
       "date": "2026-07-25T12:19:17Z",
       "source": "adzuna"
@@ -5629,261 +5908,6 @@
       "applyUrl": "https://www.adzuna.co.uk/jobs/details/5814709660?utm_medium=api&utm_source=3e8468e0",
       "featured": false,
       "date": "2026-07-25T02:03:10Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5814709620",
-      "title": "Identity Security Engineering - SailPoint, Vice President",
-      "company": "BlackRock",
-      "logo": "BL",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£111k – £111k",
-      "tags": [],
-      "description": "About this role Job Description We are seeking a Vice President, Identity Security Engineer to help shape and deliver a major identity modernisation programme , migrating from SailPoint IdentityIQ to SailPoint Identity Security Cloud. This is a hands-on technical leadership role for an engineer who enjoys solving complex security, data, integration and operating -model challenges at enterprise scale. You will work with engineering, security, operations and business partners to design a modern i…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5814709620?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-25T02:03:09Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5813667066",
-      "title": "Lead Software Engineer",
-      "company": "JPMorganChase",
-      "logo": "JP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£81k – £81k",
-      "tags": [],
-      "description": "Description We are building the next generation of intelligent, cloud-native systems — and we want you to help lead the way. At JPMorganChase, you'll work at the intersection of software engineering, artificial intelligence, and cloud infrastructure, delivering solutions that matter at scale. This is an opportunity to grow your craft, shape engineering standards, and make a measurable impact on how the firm builds and operates technology. As a Lead Software Engineer at JPMorganChase, you will o…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5813667066?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=B16C7F7D03FF51558B142CC17B76B98F3C026B85",
-      "featured": false,
-      "date": "2026-07-24T10:57:45Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5813665581",
-      "title": "Java Software Engineer III",
-      "company": "JPMorganChase",
-      "logo": "JP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£68k – £68k",
-      "tags": [
-        "Java",
-        "Rust",
-        "Scala",
-        "Agile"
-      ],
-      "description": "Description Push the limits of what's possible with us as an experienced member of our Software Engineering team. As a Software Engineer at JPMorganChase within the CIB – Markets Technology , you are an integral part of an agile team that works to enhance, build, and deliver trusted, market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for delivering critical technology solutions across multiple technical areas within var…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5813665581?se=dGRdJEKi8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=4558DE81E687380F761CB2DDE6EDBB9AEE9CE22D",
-      "featured": false,
-      "date": "2026-07-24T10:55:26Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5813663318",
-      "title": "Software Engineer",
-      "company": "Motorola Solutions",
-      "logo": "MS",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£55k – £55k",
-      "tags": [],
-      "description": "Company Overview At Motorola Solutions, we believe that everything starts with our people. We’re a global close-knit community, united by the relentless pursuit to help keep people safer everywhere. We build and connect technologies to help protect people, property and places. Our solutions foster the collaboration that’s critical for safer communities, safer schools, safer hospitals, safer businesses, and ultimately, safer nations. Connect with a career that matters, and help us build a safer …",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5813663318?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=82133E481739BB445A664CE44CF4188042774E13",
-      "featured": false,
-      "date": "2026-07-24T10:52:49Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5813653510",
-      "title": "Software Engineer III",
-      "company": "JPMorganChase",
-      "logo": "JP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£61k – £61k",
-      "tags": [
-        "Rust"
-      ],
-      "description": "Description This is an exciting opportunity for you to join a talented team of engineers and make a global impact. As a Software Engineer, you'll contribute to market-leading technology products that advance our business and deliver trusted solutions worldwide. You'll collaborate with passionate professionals, solve complex problems, and grow your career in a supportive, innovative environment. We value your expertise, creativity, and commitment to teamwork. As a Software Engineer III at JPMorg…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5813653510?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=AC58A5C4E1793BB81EB3D9B8835DC7A1FAD94B53",
-      "featured": false,
-      "date": "2026-07-24T10:43:43Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5813502560",
-      "title": "Risk Technology UI & Workflow Platforms Lead - Executive Director",
-      "company": "J.P. Morgan",
-      "logo": "JM",
-      "city": "Glasgow",
-      "category": "Design & UX",
-      "type": "On-site",
-      "salary": "£59k – £59k",
-      "tags": [
-        "Go"
-      ],
-      "description": "hackajob is collaborating with J.P. Morgan to connect them with exceptional professionals for this role. JOB DESCRIPTION If you are a software engineering leader ready to take the reins and drive impact, we’ve got an opportunity just for you. As the Risk Technology UI & Workflow Platforms Lead at JPMorgan Chase within the Risk Tech organization, you will lead a technical area and promote impact across teams, technologies, and projects within various departments. You will leverage your extensive…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5813502560?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-24T08:56:35Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5813494553",
-      "title": "Principal Product Manager",
-      "company": "Anson McCade",
-      "logo": "AM",
-      "city": "Glasgow",
-      "category": "Product",
-      "type": "Hybrid",
-      "salary": "£140k – £140k",
-      "tags": [
-        "Go"
-      ],
-      "description": "Principal Product Manager £78,000 - 90,000 GBP Pension, Benefits Hybrid WORKING Location: Birmingham; Bristol; Glasgow; Leeds, Manchester, North West - United Kingdom Type: Permanent Principal Product Manager (Data) UK Multiple Locations Full Time | up to £90,000 A leading digital consultancy delivering large-scale transformation programmes across the public and private sectors is looking for a Principal Product Manager (Data) to lead the strategy and delivery of innovative data products and pl…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5813494553?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-24T08:50:13Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5812982092",
-      "title": "Head of Labs, Data Science, AI, LLMs, SLMs, Agentic AI, Remote",
-      "company": "Carrington Recruitment Solutions Limited",
-      "logo": "CR",
-      "city": "Edinburgh",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£100k – £100k",
-      "tags": [],
-      "description": "Head of Labs, Data Science, AI, LLMs, SLMs, Agentic AI, Innovation, Data, Remote with Travel Head of Labs, AI & Data Leader required to work for a fast moving and growing organisation based all over the country! This role is mainly remote but there will be some travel involved, mainly to their London offices. For people who live outside of Greater London, your travel cost will be reimbursed. You can literally live anywhere in the UK for this role. This role is greatand probably different to mos…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5812982092?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-24T00:45:32Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5812153654",
-      "title": "Risk Technology Frameworks Lead - Executive Director",
-      "company": "JPMorganChase",
-      "logo": "JP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£73k – £73k",
-      "tags": [
-        "Go"
-      ],
-      "description": "Description If you are a software engineering leader ready to take the reins and drive impact, we’ve got an opportunity just for you. As the Risk Technology Frameworks Lead at JP Morgan Chase within the Risk Tech organization, you will lead a technical area and promote impact across teams, technologies, and projects within various departments. You will leverage your extensive knowledge of software, applications, technical processes, and product management to oversee multiple complex projects an…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5812153654?se=opgOL0Ki8RGfx5bEd-nhPg&utm_medium=api&utm_source=3e8468e0&v=EEB6B3D4FA8B755B9B78143E9BBF720B34934149",
-      "featured": false,
-      "date": "2026-07-23T10:55:42Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5811960771",
-      "title": "Mid-Level Backend Developer",
-      "company": "Waracle",
-      "logo": "WA",
-      "city": "Dundee",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£46k – £46k",
-      "tags": [],
-      "description": "Waracle are looking for a mid-level Developer for an exciting new role joining our world-class digital technology consultancy and home to a diverse, smart, curious and ambitious community of specialists in technology-driven transformation. We work with ambitious clients to help them solve their biggest business and customer challenges. We help our clients to innovate and create intelligent digital products and services. We thrive on complex challenges and deliver business-critical IT transforma…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5811960771?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-23T06:50:56Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5811960770",
-      "title": "Mid-Level Backend Developer",
-      "company": "Waracle",
-      "logo": "WA",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£46k – £46k",
-      "tags": [],
-      "description": "Waracle are looking for a mid-level Developer for an exciting new role joining our world-class digital technology consultancy and home to a diverse, smart, curious and ambitious community of specialists in technology-driven transformation. We work with ambitious clients to help them solve their biggest business and customer challenges. We help our clients to innovate and create intelligent digital products and services. We thrive on complex challenges and deliver business-critical IT transforma…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/details/5811960770?utm_medium=api&utm_source=3e8468e0",
-      "featured": false,
-      "date": "2026-07-23T06:50:56Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5810687888",
-      "title": "Lead Software Engineer",
-      "company": "JPMorganChase",
-      "logo": "JP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£59k – £59k",
-      "tags": [
-        "Rust",
-        "Scala",
-        "Agile"
-      ],
-      "description": "Description As a Lead Software Engineer at JPMorganChase within the Asset & Wealth Management International Private Bank Derivatives team, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas within various business functions in support of the firm's busin…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5810687888?se=KAiAIkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=BAC38A60AED0B4236DA68B764B82E6E02C3C8AFB",
-      "featured": false,
-      "date": "2026-07-22T10:44:06Z",
-      "source": "adzuna"
-    },
-    {
-      "id": "5810683773",
-      "title": "Full Stack Lead Engineer - App, Data & AI Engineering",
-      "company": "JPMorganChase",
-      "logo": "JP",
-      "city": "Glasgow",
-      "category": "Engineering",
-      "type": "On-site",
-      "salary": "£67k – £67k",
-      "tags": [
-        "Rust",
-        "Scala",
-        "Agile"
-      ],
-      "description": "Description We have an opportunity to impact your career and provide an adventure where you can push the limits of what's possible. As a Lead Software Engineer at JPMorganChase within Finance Technology, you are an integral part of an agile team that works to enhance, build, and deliver trusted market-leading technology products in a secure, stable, and scalable way. As a core technical contributor, you are responsible for conducting critical technology solutions across multiple technical areas…",
-      "requirements": [],
-      "perks": [],
-      "applyUrl": "https://www.adzuna.co.uk/jobs/land/ad/5810683773?se=KpieJkKi8RGyBrVynUzDwQ&utm_medium=api&utm_source=3e8468e0&v=D5010996BD4BF264B189976B719F195C095FE3EA",
-      "featured": false,
-      "date": "2026-07-22T10:39:53Z",
       "source": "adzuna"
     }
   ]
